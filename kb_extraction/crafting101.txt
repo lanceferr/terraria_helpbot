@@ -1,0 +1,39 @@
+Crafting is the act of combining one or more materials into a different item, usually at a specific crafting station. The crafting system is deeply interwoven with game progression, with many "key" materials and crafting stations dropped by various bosses, or otherwise available only after a given boss has been defeated.
+
+== Crafting Basics ==
+The crafting aspect is slightly different across different versions of Terraria. To access the crafting menu, press the  key while in-game. This will bring up the heads-up display, showing your inventory, equipment slots, and other options. The crafting menu is located in the bottom left of your screen, as indicated in the image below. On , press  () /  () /  (). From there, switch menus ( / )   to access the crafting interface.
+
+
+The crafting area on , outlined in red.
+The crafting area on .
+The new crafting area on  for 1.4, visible on the right.
+
+
+===  ===
+
+
+The items that can be currently crafted will appear in this menu. Your crafting options are determined by the items you have in your inventory, as well as your proximity to various crafting stations. Next to a selected item's icon in the list, its crafting recipe appears.
+
+To navigate this menu, you can click or use the mouse wheel to scroll through items. You can also see all craftable items at once by clicking the hammer icon below the word "Crafting". To select an item (as depicted by a yellow border), simply click on it, and to craft it, click it again. The newly crafted item will attach itself to your cursor, and from there it can be placed in your inventory or dropped by right-clicking outside of your inventory space. Large numbers of stackable items can be crafted by clicking and holding the icon, which quickly creates and stacks that item until the stack is full, you run out of materials, or simply let go. To exit your inventory, press the  key again.
+
+Upon crafting, there is a 75% chance that a weapon or accessory is provided with a random modifier, slightly altering its quality. There is no way to predict what modifier will be applied on an item, and many items cannot get modifiers at all. To change its modifier, you will have to use the reforge mechanic located in the Goblin Tinkerer's text box.
+
+== Crafting Stations ==
+
+Many recipes require that you have a crafting station to craft them. The first crafting station available is the Work Bench, which can be crafted without any crafting station. To use a crafting station, it must be placed in the world, and you must be standing close enough to it (see image). Items you can craft using the station will then be added to the list of items you can currently craft. It is possible to stand near many crafting stations simultaneously to craft items using any of these stations. Additionally, some items, such as the Waterfall Block requires that you stand next to multiple different crafting stations to be able to craft them.
+
+== Multi-Crafting Areas ==
+
+The initial crafting station reach (yellow, 9×6) and placement/interaction reach (red, 11×9), centered on player's feet.
+Multi-craft area for making most items in the early stage of the game. Note that there is a Placed Bottle between the Safe and the Keg. The player should stand on the platform above water for crafting, where storage items in red area are within reach. To add the table above the water, place a platform on the water block to hold the table up.
+Crafting areas for making most items in the middle stage of the game (just before Hardmode). Note that there is a Placed Bottle between the Cauldron and the Keg. The player should stand on the platform above water, where storage items in red area are within reach. Standing on the table allows cooking Marshmallow on a Stick.
+The crafting station reach (green, 17×14) and placement/interaction reach (blue, 17×13), centered on player's feet, when the Extendo Grip or its upgrade is equipped and the Artisan Loaf is consumed.
+The fully "upgraded" crafting area, which enables the crafting of any item (except items that require Snow biome or Ecto Mist). Amethyst Gemspark Walls (purple tiles) are unused tiles which can be used for placing Switches wired to the Teleporter. However, this setup leaves no place for item storage.
+An example of using Teleporter to connect crafting area with item storage.
+Manually creating a Snow biome and the Ecto Mist for the crafting area.
+
+
+== Notes ==
+* Many players may find it useful to use the Guide's help, as he shows not only the recipes an item is used in, but also what crafting stations are needed to craft those items.
+* If you keep any potion ingredients in one area, it can be useful to place a Bottle or Alchemy Table nearby for quick crafting. Similarly, for dyes and paints you can put a Dye Vat nearby.
+* To make a fully complete crafting area, you would need to include either a Demon or Crimson Altar. Unfortunately, those are immobile! If you don't want to locate your crafting area near an altar, you can instead provide a way to get to an altar quickly -- teleporters are good for this. Don't forget the minor stations such as lava and honey blocks (a sink can substitute for water), and a Campfire (for a Marshmallow on a Stick). Fortunately, as of 1.4.5, altar can be obtained as items in Skyblock, and by bringing them into other worlds, you can place altar anywhere you like.
