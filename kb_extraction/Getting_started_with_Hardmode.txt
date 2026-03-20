@@ -1,7 +1,7 @@
 Hardmode is the second half of the game, initiated in a world when the Wall of Flesh is defeated for the first time. New, more powerful enemies spawn with new loot, increasing the power level of both enemies and the player dramatically, and the Corruption/Crimson begin to spread and infect nearby blocks. Once started, Hardmode cannot be turned off.
 
 The beginning of Hardmode is very dangerous due to the new threats, and can easily catch newer players off guard. This guide focuses on helping new players recognize and deal with the threats posed in early Hardmode.
-
+toc limit
 
 == Preparations ==
 
@@ -16,8 +16,6 @@ When Hardmode begins, the evil biome of your world and then new Hallow biome wil
 These strips and the chasms in pre-Hardmode will spread their biomes to nearby blocks, quickly on the surface and slowly underground. Surrounding patches of evil biome with 2 Sunflowers at each end, or a 3 block wide vertical tunnel, will contain their spread.
 
 In , evil biomes infecting the Jungle poses a threat as they would permanently convert Jungle mud into dirt, making it much harder to purify the Jungle and undo the damage once it is infected. Evil biome spread is also harder to contain in these versions in general, due to random stone blocks in the cavern layer having a chance of being infected when a Demon Altar/Crimson Altar is smashed.
-
-
 
 If you have not found it yet, consider looking for the Aether. Shimmer becomes much more useful in Hardmode, allowing you to cycle the Emblem the Wall of Flesh drops and avoid reforge costs on some expensive new Hardmode gear by crafting and decrafting it repeatedly. You can look for the Aether in Hardmode, and it will be faster with faster mining speed, but more dangerous due to the enemies.
 
@@ -111,3 +109,5 @@ These bosses can spawn randomly during the night if an Altar has been smashed, w
 If you are struggling with the mechanical bosses, consider seeing what Potions you could make use of for the fights, and how you could improve your mobility to avoid attacks. A good pair of Wings loves the extra speed of a Balloon and the extra vertical control of Featherfall or Gravitation Potions. Food buffs from Pumpkin Pies and the speed buff from Swiftness Potions can greatly assist in horizontal acceleration, and an Obsidian Shield can prevent stray hits from ruining your movement with knockback. Ironskin and Regeneration Potions are massive survivability buffs that are easy to craft as well.
 
 For more help with the Destroyer, see Guide:The Destroyer strategies. For more help with the Twins, see Guide:The Twins strategies. For more help with Skeletron Prime, see Guide:Skeletron Prime strategies.
+
+Guides

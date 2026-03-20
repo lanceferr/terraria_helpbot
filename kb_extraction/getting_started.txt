@@ -5,10 +5,9 @@ This guide will help you get started on your journey through your world. It will
 == Gamemode ==
 On Terraria's title screen, you can pick the game mode you would like to play. For this guide, it is recommended to select "Single Player," and the information presented on this page will assume this is what has been selected. In the case one wants to play with friends, however, select the "Multiplayer" option to connect to other players. Note that there is currently no official way to crossplay between any versions.
 
-The  and  versions have a built-in Tutorial that we recommend completing first.
+The Console and Mobile versions have a built-in Tutorial that we recommend completing first.
 
 == Character Creation ==
-
 
 After selecting the game mode, you'll have to create and select your own character. Click the New button on the bottom right to open the character creation screen. Here, you can change a number of your character's properties, such as: gender, hair, hair color, clothing style along with its colors, skin color, eye color, and pitch!
 
@@ -20,7 +19,7 @@ You can choose different character difficulty options: Journey, Classic, Mediumc
 The character difficulty setting determines what happens when the character dies -- it does not affect any other aspects of gameplay, including how hard the enemies will be.
 
 * Journey Mode gives the player the ability to "research" items and access to various cheat options, like a limited Creative mode. Journey characters can access the cheat menu by pressing , allowing them to enable Godmode, duplicate items, set the time and weather, Increase or Decrease enemy spawning or Stop Enemy Spawning entirely, etc. Journey characters can also change the difficulty of their world on the fly if they find the current difficulty too hard or easy, and start with an improved set of starter tools and items. However, Journey characters can only enter Journey Mode worlds, including playing in multiplayer.
-** On  and , the cheat menu is instead located in the pause menu, in the Journey tab. Research and Duplication have their own tabs in the inventory, similar to things such as Equipment or Chests.
+** On Console and Mobile, the cheat menu is instead located in the pause menu, in the Journey tab. Research and Duplication have their own tabs in the inventory, similar to things such as Equipment or Chests.
 * Classic means that you will drop some of your coins upon death. Depending on world difficulty, you may drop half, , or  of your coins. Lost coins can be picked up by returning to your death location, but you may have to defeat enemies to get them back.
 * Mediumcore means that you will drop every item you are carrying upon death. Dropped items will be permanently lost if you leave the world before recollecting them, and some items can be destroyed by Lava.
 * Hardcore means that you have only 1 life, like in Minecraft; if you die, the character file is permanently deleted. 
@@ -31,9 +30,6 @@ It is recommended you choose Classic or Journey for your first playthrough, as t
 Characters can be visually customized by changing their gender appearance, hairstyle, eye color, skin color, and clothing. All but eye and skin colors (pre-1.4) can be changed in-game using certain items.
 
 None of the Appearance options have any effect on gameplay aside from visuals, the player hurt sound effect, and occasional NPC quotes.
-
-
-
 
 * The color selection bars use the Hue/Saturation/Lightness system. The top bar changes the base color; the middle changes how faded the color is; the bottom bar lightens or darkens the color from white to black. See  for a more technical explanation.
 * Clothing will be obscured by your armor and vanity items. This can be undone by wearing the Familiar set as you progress.
@@ -74,11 +70,9 @@ All Terraria worlds have one of two Evil biomes, that affect your ability to rec
 
 It's important to mention that while the differences between the two world evils are quite vast, they ultimately will not affect a play through that severely. For a newer player, it is recommended that you either let the game decide via choosing random, or simply pick whichever you think looks the most fun. Don't let what you lose out on by not picking one or the other stress you out, as there's nearly always an equivalent.
 
-
 Click Create or Accept to generate your world; the game will display a progress bar until it is complete. Afterwards, press Play on the created world to start your adventure!
 
 == Beginning Gameplay ==
-
 
 Upon entering a world for the first time, your character will appear at the center of the map, so you have half of the world to explore to the left, and half to the right. This location is known as the Spawn Point and will be where your character appears after you die, or whenever you enter the world. It's also marked with a Green Arrow on the Map. 
 
@@ -86,8 +80,7 @@ You will notice you have a set of starter tools in your inventory, including a ,
 
 === Movement and Tool Use ===
 
-
-* On  version, the game can be controlled using the Mouse and Keyboard. If you are using a controller, please see the console section further below.
+* On desktop version, the game can be controlled using the Mouse and Keyboard. If you are using a controller, please see the console section further below.
 ** The cursor on the screen is moved using the mouse.
 **  (left-click) will activate the item currently selected in the hotbar, or attached to the cursor. This usually results in attacking with a weapon, placing/breaking a block, drinking a potion, etc.
 ** The  keys move the character (note that  is not for jumping).
@@ -95,8 +88,8 @@ You will notice you have a set of starter tools in your inventory, including a ,
 **  (right-click) will interact with placed objects like Chests and Doors. It is also for talking to NPCs and splitting stacks of items.
 **  will cause your character to throw the currently selected item in front of the player. This can have disastrous consequences when pressed accidentally, so it is advised to change this key bind or remove it entirely. Items can also be thrown by dragging them out of the inventory and right-clicking.
 *** Key binds can be changed from within Settings -> Controls.
-* On the , there will be a left joystick for movement, a right joystick for using items (alternatively tap anywhere on the screen to use an item or place a block), and other buttons to do various things, such as quick heal and Mounts. There is also a lightbulb button that will show each button's function once tapped and can be toggled on and off.
-*  use controllers  / Joy-Cons  to control the game. The  also has touch screen capability when it isn’t docked, so some gameplay elements have mobile-like controls (e.g., main menu, inventory).
+* On the mobile version, there will be a left joystick for movement, a right joystick for using items (alternatively tap anywhere on the screen to use an item or place a block), and other buttons to do various things, such as quick heal and Mounts. There is also a lightbulb button that will show each button's function once tapped and can be toggled on and off.
+* console version use controllers  / Joy-Cons  to control the game. The switch version also has touch screen capability when it isn’t docked, so some gameplay elements have mobile-like controls (e.g., main menu, inventory).
 **  moves the character, and  moves the cursor.
 ** The bottom face button makes the character jump.
 **  change the hot bar slot.
@@ -107,7 +100,6 @@ You will notice you have a set of starter tools in your inventory, including a ,
 === Hotbar and Inventory ===
 ==== The Inventory ====
 
-
 In the upper-left corner of the screen, you will see ten inventory slots labeled 1 through 10. These slots are referred to as the hotbar. They are a quick way of accessing commonly-used items. You can place any item into them from the inventory. To use the item, select the hotbar slot by pressing the associated number on the number row on the keyboard, use the scroll wheel to scroll to the right slot, or click a slot with the cursor. When you have selected a slot, you can press  anywhere on the screen to use the selected item.
 
 By pressing  or  you open up the inventory. It consists of 40 inventory slots, 10 hotbar slots, 4 slots each for coins and ammo, a trash slot, and various armor/accessory slots. It also contains the crafting menu, which is used to craft items.
@@ -117,9 +109,6 @@ All newly created characters (in Classic/Softcore mode) begin with the following
 * , used to dig blocks, as well as detaching placed items like furniture.
 * , used for chopping down trees, to obtain wood, as well as cacti.
 
-
-
-
 ==== Rearranging the Inventory ====
 Items in the inventory can be moved using the cursor. Pressing  on an item will remove it from its slot and attach it to your cursor. Clicking again on another slot will set the item back down, swapping it for another if the slot already contains an item. Pressing  on an item will either pick up a single item from a stack (if the item is a stack) or equip it to your character (if the item is equippable).
 
@@ -127,7 +116,7 @@ Moving a held item out of the inventory screen allows you to  as if it were held
 
 Certain inventory slots act in a special way:
 * The ammo slots can only contain items that are either Ammunition for Ranged weapons, Wires for Wrenches or Bait for Fishing poles. Keep in mind that the top-most Slot for ammo will be used first, followed by subsequent slots.
-* The Coin slots can only hold coins, which may be dropped when you die. When you collect coins, they will be deposited into the Coin slots, automatically converting to the next highest denomination when appropriate (100 ⇒ 1, 100 ⇒ 1, 100 ⇒ 1). You can move coins to your normal inventory instead of the Coin slots (though subsequent money will still deposit to the Coin slots by default). This does not prevent Coin loss upon death.
+* The Coin slots can only hold coins, which may be dropped when you die. When you collect coins, they will be deposited into the Coin slots, automatically converting to the next highest denomination when appropriate (100cc ⇒ 1sc, 100sc ⇒ 1gc, 100gc ⇒ 1pc). You can move coins to your normal inventory instead of the Coin slots (though subsequent money will still deposit to the Coin slots by default). This does not prevent Coin loss upon death.
 * While you can drag items into the Trash slot (located in the lower-right section of your Inventory) to get rid of them, pressing  while clicking an item in your inventory will do so automatically. The last item placed in the Trash slot will remain until you trash another one, so be careful when quickly removing items, as you can only retrieve the last item placed there. Trashed items are also removed when logging out.
 ** You can favorite items by pressing  while clicking on the item. This prevents the player from throwing the item, quick-stacking it to a nearby chest or trashing/selling it through hotkeys, and is a useful option for ensuring that the player does not lose valuable items.
 * Some NPCs allow you to buy and sell items from them. If you are currently shopping, you can drag/drop to sell items, or press  and click said item (instead of a trash icon, you'll see a coin icon, indicating a sale). If you accidentally sell an item, you can buy it back for the same price - if it is still visible in the NPC's shop, but beware: once you sell an item and leave the dialogue, your sold items will disappear.
@@ -140,13 +129,9 @@ These red hearts beside the inventory indicate the character's Health. Each red 
 
 If your health reaches 0, your character will die, and will re-appear at your Spawn Point after a delay. Health regenerates naturally after a short period of not taking damage.
 
-    
-
 The blue stars on the right side of the screen indicate the character's Mana. Each blue star is 20 mana. All characters begin with 20 mana. This can be raised to 200 mana using  and temporarily boosted further with some accessories and armor.
 
 Mana is used to power Magic weapons; it regenerates similar to health, but at a much faster rate.
-
-
 
 == The First Day ==
 After loading the world, your character will be standing at the spawn point, with an NPC nearby, the . You can talk to him by pressing  with your mouse over him. He has some tips for new players, and choosing Craft will let you give him materials to see what Recipes can be crafted using them. This option can be used at any point in the game.
@@ -164,20 +149,17 @@ To remove blocks, you use your Copper Pickaxe. Select the item and move the curs
 
 If you mine the block directly below another one, that block will float in the air. Blocks need other blocks to be placed, but not to stay airborne.
 
-
-
 It is likely that by this point a Slime has leapt on-screen. This is an enemy, which will damage you if it touches you, and you will damage it if you swing a weapon at it. Killing it will reward you with  and Coins. Gel is a crafting material, while coins are primarily used to purchase items from NPCs.
 
 === Crafting ===
 
-Crafting is a key part of Terraria, allowing the player to access new items. The crafting menu can be seen while the inventory is open.  and  can immediately start crafting from the inventory. On , press  () /  () /  (). From there, switch menus ( / )  .
+Crafting is a key part of Terraria, allowing the player to access new items. The crafting menu can be seen while the inventory is open. Desktop and Mobile can immediately start crafting from the inventory. On console, press  () /  () /  (). From there, switch menus ( / )  .
 
 The crafting menu will show the player possible Recipes they can craft with the materials they have in their current position. With wood, you can craft a  and . If you killed a Slime and have Gel, you can also craft . The Work Bench is used as a Crafting Station to craft more new items, Platforms are blocks you can stand on but also move through, and Torches produce light to see in dark areas. All of these items can be placed; the Work Bench must be placed on top of solid, flat ground, while Torches can be placed on top of or on the sides of blocks and trees, and Platforms can be placed on blocks, on trees, or even above grass and on top of vines and sunflowers.
 
 In order to use the , place it down and stand near it. This is how you use any crafting station; the range you can access crafting stations from can be increased with the .
 
 === Safety and House building ===
-
 
 NPCs like the Guide need a house to move into, and the player can also benefit from the shelter for safety. Houses need furniture, lighting, walls, and a frame. For furniture, start by crafting a  from 10 , place it down, and stand near it.
 * This will allow you to craft  and  for your NPCs to use, as well as  or  for the background of the house. The Work Bench itself also functions as a smaller table.
@@ -194,7 +176,6 @@ Once you have collected about 200 wood, return to where you initially spawned an
 
 Time to get building!
 
-
 1. Lay down the wood foundation
 2. Make a box that is at least 9×7
 3. Craft a 
@@ -204,10 +185,7 @@ Time to get building!
 7. Craft and place , and a 
 8. Assign an NPC to the house, in this case the 
 
-
 :: Tip:  are considered Tables for purposes of NPC Housing. You can replace Tables with them. For more info, consult Housing.
-
-
 
 If you're struggling with building a house, you can use the housing menu to check what is missing from your house. One hard-to-diagnose potential problem: NPCs need a place to stand on, and it needs to be a solid block. Make sure to not make your floor entirely out of platforms.
 
@@ -248,14 +226,13 @@ In Terraria, any damage done to you will appear above your head as a red number.
 *  can be obtained from Pots, Chests, crafted, or bought from the Merchant and they restore 50 health on use.
 * Once you get , you can use them and Lesser Healing Potions to craft , which heal 100 health per use.
 
-
 === Crafting Stations ===
 
 While the Work Bench allows you to craft wooden items, ores need a  to be smelted into bars and an  to process those bars. For the Furnace, mine at least 20 blocks of  and craft these with Wood and Torches at a Work Bench to get a Furnace that you can then place down.
 
 For the anvil, you need Iron or Lead Ore. Each world will only have one or the other, and they have the same uses. Search for oddly colored blocks like in the graphic to the right; these tend to be ore deposits. Once you mine 15 Iron or Lead, you can smelt them into / at the Furnace and use these at a Work Bench to craft an Anvil, which you can then place down. This will let you craft Tools, Weapons, and Armor made from bars, which are stronger than their wooden counterparts.
 
-If you have 50 in your inventory, you can also wait for the Merchant to arrive, who sells Iron Anvils for you to use.
+If you have 50sc in your inventory, you can also wait for the Merchant to arrive, who sells Iron Anvils for you to use.
 
 Potions are a type of consumable with a variety of positive effects. You can find them naturally from the environment, or you can craft them from various common materials and . Potions are crafted at a Placed Bottle crafting station, which you can get by placing a  or  on a Work Bench, Table, or Platform. You can find Bottles in chests across the surface, or smelt  from a nearby Desert into Glass and then into Bottles. Bottles can be crafted into Bottled Water at any body of water; doing this does not drain the water. A Pink Vase can instead be crafted using .
 
@@ -275,7 +252,6 @@ You can illuminate your surroundings using torches, either placing them down or 
 You'll also encounter , which slow down your movement before breaking. You can cut them down with any weapon or tool and then pick them up. Cobweb can be turned into  at a , a key ingredient to make a , furniture used to change your spawn point. The Green Arrow on the Map will not disappear when you do this, but a bed icon will appear. Silk can also make decorative items and vanity clothing, and cobwebs can be used to craft  that let you see all traps from a safe distance.
 
 While underground it is possible to come across pools of water. Torches do not work underwater, so you must use , but they cannot be crafted. You can throw them, but they will bounce and move around. You can craft  by combining Gel with a Glowstick; these will stick to walls when thrown, making them easier to place. No matter which you use, however, glowsticks are not permanent when thrown, unlike placed torches. You get some Glowsticks from Pots, but you can also buy them from the Merchant at Night, for far cheaper than normal Torches.
-
 
 The player sinks in water, and cannot swim by default. Jumping from water has decreased distance, torches don't work, and the player can drown. However, if the player has glowsticks, they can see underwater just fine, and it takes a while to begin drowning, which can be staved off with any air pocket. However, if you are close to running out of air, there is a way to regain air quickly. First either find a wall or make a small shaft at the bottom of the water, and then dig a tunnel in the wall and then upward in the ceiling. The water will not fill the upper squares. As the dug-out space is filled with air, you can jump into it to refill your breath meter.
 
@@ -331,3 +307,7 @@ For more advanced information, please check out the guides listed below.
 *  - Some tips for all skill levels of players
 
 All guides have the following list of Guide pages, such as below, that you can use to move between guides very quickly. Use those if you want to learn more things.
+
+Guides
+
+footnotelist

@@ -2,15 +2,8 @@ When progressing through Terraria, many players can be confused about where they
 
 When choosing a map size, consider what experience you want out of your playthrough. A small world allows for quick exploration and easier traversal of difficult biomes early on, but can also feel limited, and may be missing certain rare items. A medium world allows for longer exploration and will have more items overall, but difficult biomes will be harder to traverse early on. A large world is best suited for multiplayer, or as a world that you intend to spend a lot of time on.
 
-
-
-
 = Starting Out =
 On the creation of a new world, a helpful NPC (Non Player Character) will spawn, and he is called the . If you are new to Terraria, then chat with him and he will give you advice on different elements of your world based on what stage of the game you're at. He can also be shown any material, and tell the player of any crafting recipes that use that item. He'll also inform the player on how to make a house that NPCs will accept as a place to live in. 
-
-
-
-
 
 === Beginning ===
 Your goal during the day should be to find/make some better starting equipment from your surroundings and build a small house to pass the night safely. The Guide will explain how you can make a valid NPC housing. It might be wise to build multiple houses in advance to house later NPCs. NPCs will show up when you meet the conditions for them to move in (for instance the  will arrive once you have collected 50 or more Silver coins), and will leave come nightfall if you haven't made them a place to stay (except for the Guide). Don't worry, they'll come back, they just wont stick around without a home. The Guide will give you hints as to how to get new NPCs to move in.
@@ -27,10 +20,6 @@ While exploring cave entrances, be sure to gather 20 stone, as combining it with
 
 After a little over 11 minutes, night will arrive. If possible, its much more productive to head underground during the night, but if you perish or simply cannot make it to a cave in time, you can wait the night out if you like.
 
-
-
-
-
 If you find yourself outside without a base to hide in or a cave to go down, you can simply build a box around yourself to hide for the night. A two-block wide hole on either side of the box should be enough for you to attack Zombies and gain some starter gear and money, but you can also simply choose to dig straight down, blocking the entrance of the hole to prevent zombies from following, and continuing to dig hoping to run into a cave so you can spend the night mining, as it's much more productive. 
 
 As a relevant sidenote: If you're not used to playing Sandbox building/mining games, it is easy to forget your greatest ability: the power to move blocks. If you're in a pickle, this can save you much more often than it can't.
@@ -43,18 +32,9 @@ Once the sun rises and morning arrives at , Night will end, causing Demon Eyes a
 
 = Going Underground =
 
-
-
-
-
-
 While exploring the Underground (and, by extension, the Caverns), you might find : you can mine and use them to increase your maximum life by 20 (up to a maximum of 400). You can also stockpile Life Crystals and use them to craft , which increases life regeneration as long as you stay near to it. It's critical that you increase your max life, as it significantly boosts your survivability. That said, your first few crystals will also unlock various events: The first allows Blood Moons to happen, and event where spawnrates are greatly increased, and more powerful enemies spawn on the surface. The third allows Slime Rains, which causes slimes to fall from the sky. If you kill 150 slimes during this event, it causes the King Slime to spawn, who is the first boss. Using a fifth and getting up to 200 HP fufills one of the conditions for the Eye of Cthulhu to spawn naturally.
 
 It is in this layer that the player can start to encounter Underground Cabins. These cabins will contain Golden Chests, which can contain a wide variety of useful equipment, such as , which allow the player to run much more quickly, or a , which allows the player to double jump. Along with various potions and bars. These are the main things one should be looking out for during underground exploration.
-
-
-
-
 
 The Caverns are a massive biome with many useful items and treasures, so they should be explored for a long time. The main things to be looking for are once again Underground Cabins, in addition to the now more common  and . The first gems the player finds should be used on making a grappling hook, as they greatly aid mobility. The player will also likely accrue a lot of money while down here, especially if they hold onto things they intention of selling them.
 
@@ -81,19 +61,7 @@ A quick note on armor: Because of set bonuses, it is wise to try and complete an
 = Events =
 Events happen randomly as the player is traversing through the game, though some have certain criteria that need to be met in order to occur (for instance, a Blood Moon cannot occur until a player has at least 120 max health). Some events can also be summoned, and others can only be summoned and insetal will not occur randomly. These events can last either a full day/night, a random indeterminate amount of time, or will last until the player defeats them.
 
-
-
-
-
-
-
-
-
-
-
 = Building a Base =
-
-
 
 Once you’ve filled your inventory with blocks and loot, you may want to consider starting to build a base, as now you have some building materials and money to buy things. A base can take anywhere from a single in-game day to more than an in-game week to complete, depending on the player's tastes. It is not necessary, however, to build the entire base right away. Waiting to build the majority of the base can be advantageous, as it will allow the player to use the large stores of blocks they will end up gathering as a by-product of mining. Regardless of when or what the player builds, it is recommended to build houses for the Guide, Merchant and Nurse, craft a , and an area for storage and crafting before progressing. It is also wise to create a layout that can be easily added onto later as more NPCs are available and more storage is needed.
 
@@ -111,42 +79,7 @@ A Traveling Merchant will show up fairly early in game and sells many useful ite
 
 Once the player obtains strong enough weapons many mid-tier biomes open up. These biomes contain crafting materials as well as other treasures.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Important Disclaimer: The Underground Jungle is one of the most dangerous Pre-Hardmode areas, second to the dungeon and roughly equivalent to the Underworld. You should venture to the underground Jungle after exploring the Underground Desert or Ice Biomes, or both. That said, it’s also one of the most rewarding, offering some of the best gear available in early Pre-Hardmode, as well as plenty of accessories that are needed for future upgrades. If you can defeat the Eye of Cthulhu fairly easily, you’re more than likely ready to brave the Jungle, but you'll want to play cautiously. If you’re dying frequently or feel overwhelmed, leaving and coming back later is a wise decision, just don’t put it off for too long.
-
-
-
-
-
-
 
 = The Bosses: Dealing with the first three =
 Once you’ve survived the first couple nights and started work on a base, you should begin preparations for the upcoming boss battles, as even if you do not wish to go looking for them, they will come looking for you.
@@ -160,7 +93,6 @@ King Slime can spawn rarely in Grass at the outer sixth of the world, by using a
 Still, savvy players may want to defeat King Slime for the chance of getting a good , as it's better than any hook obtainable up to this point. In the , the  it drops provides critical hit bonuses, useful for all weapons except summoning weapons, which aren't affected by critical hits. It also drops the , a mount with a fast fall speed that is useful for dodging in boss fights even into Hardmode.
 
 == Eye of Cthulhu ==
-
 
 Although not required, the Eye of Cthulhu can be a beneficial boss to fight, providing  or  without the need to mine for the respective ore.
 
@@ -176,10 +108,6 @@ After the Eye of Cthulhu is defeated, you should do the following:
 * Build a chest room: It's not a bad idea to have plenty of storage to put away items you'll find later on.
 
 After this, head to the Corruption or Crimson to smash a Shadow Orb or Crimson Heart. Smashing your first orb or heart allows  two events/  1 event to occur in short order:
-
-
-
-
 
 Every third Orb or Heart you smash in the world will spawn either Eater of Worlds or Brain of Cthulhu respectively:
 
@@ -197,36 +125,24 @@ The Brain of Cthulhu is a boss that teleports and has two stages. In the first s
 
 In Expert mode, when you reach  its second phase, the Brain creates three fake copies of itself. The copies become more opaque as the Brain loses health.
 
-
-
 = The Late Pre-Hardmode =
 The three late pre-hardmode biomes — the Underground Jungle, Dungeon, and Underworld — are all of the roughly similar difficulty and can be done in any order or concurrently.
 
 == The Underworld ==
 
-
-
 The Underworld is the hardest pre-hardmode biome, and the last biome that players explore.
 
 The greatest danger working in the Underworld is, unsurprisingly, the wide expanses of molten lava. There are certain accessories which provide invaluable aid when it comes to traversing the Underworld, such as the Lava Waders and its upgrades, which allow walking on water. If you don't have these accessories, potions like Water Walking and Obsidian Skin are fantastic alternatives. When used, these potions allow you to walk on lava and become invulnerable to its damage respectively. There is no breath meter in lava, so as long as you have Obsidian Skin Potions, you can stay in lava indefinitely.
 
-
-
 Hellstone mining is quite time-consuming and is the main reason to spend time in it. You'll need an Obsidian Skull or better to prevent Hellstone ore and bricks from burning you. Abundant deposits of Hellstone spawn next to the buried Ruined Houses, and instead of going to burrow deep into the ash and build lava channels, mine the ones that spawn close to the walls. Monster spawn rates are low in the Ruined Houses, and the buildings prevent most of them from bothering you, except the Fire Imps and Bone Serpents which can penetrate blocks. You can block the Fire Imp shots with any weapon or projectile, including your swinging pickaxe.
 
-
-
 Be mindful that if you kill a Voodoo Demon, you better be ready to get under that  before it drops into the lava, or you will be in for a nasty fight you're not prepared for. Should you accidentally awaken the Wall of Flesh, you cannot escape. Using a Magic Mirror will result in your death.
-
-
 
 = Deerclops =
 
 Deerclops is not especially difficult. The important things to note are that it becomes invincible if the player is more than 30 blocks away from it and that it doesn't despawn when the player dies, but rather when a full in-game day has passed from when it spawned (24 minutes). 
 
 It drops some good loot, but the main thing we want is the . It's the first sentry available to the player, and will prove to be helpful in the upcoming event. Sentries are like minions, but they don't count towards the max minion count and are immobile. Every class should use at least one minion and one sentry as soon as they have them available, as there's no downside to using them.
-
-
 
 = Old One's Army =
 
@@ -244,25 +160,17 @@ You should start the event by placing a lightning aura sentry at one portal, try
 
 Upon clearing the event you will receive many benefits. You will be able to summon the Tavernkeep's Sentries outside of the Old One's Army event, which will help with the upcoming bosses. The Eternia Crystal will have dropped some Defender's Medals, which you should store away for safekeeping. The Dark Mage will have likely dropped an accessory, either the  or  and a . Only one of the accessories is needed, as they offer the same boost and their boosts cannot stack. The accessories both give a 10% damage boost to summon weapons and an additional sentry slot. This is exceptionally helpful for summoners as this is a very large boost for a accessory to give this early. The War Table is helpful as interacting with it gives you a free buff that lasts until death, this buff allows you to summon an additional sentry.
 
-
-
 = Queen Bee =
 
 Queen Bee is not difficult to fight with at this stage in the game. Her charge attack is predictable and easy to dodge, and you can stand in the honey for a big healing boost.
 
 Many of the Queen Bee's drops may be better than what you already have. Even if they aren't, farming Queen Bee is a good source of income before Hardmode. Plus, the Bee mount is the earliest mounts that can fly, although it's slow on land and hates water.
 
-
-
 = Skeletron =
 
 To gain entrance to the dungeon, Skeletron must be defeated. To summon Skeletron, talk to the Old Man in front of the dungeon at night.
 
-
 == The Dungeon ==
-
-
-
 
 Make sure to get the following loot before leaving the Dungeon:
 * Shadow Key: This item can unlock any Shadow Chest in the Underworld. These chests contain many powerful weapons to use against  and often still remain decent in early hardmode.
@@ -280,11 +188,6 @@ The following is a list of preparations you may wish to consider before summonin
 * Obtain maximum Health and Mana if you have not already done so.
 * Craft endgame equipment:
 
-
-
-
-
-
 **Armor: If you're doing a general playthrough, it's likely you'll want Molten armor, which provides 25 defense that is the best for basic survival in Hardmode. You may, however, have reason to prefer Shadow armor or Crimson armor, as they both provide more general stat bonuses and are easier to get: the Shadow armor gives  +21% melee speed , +15% critical strike chance and increased movement speed, while the Crimson armor boosts damage by 6% along with increasing life regeneration. However, at this point in the game, setups for classes begin to diverge into different, distinct groups and you're going to have to be more specific with the type of damage you use. Therefore, you'll want to use the appropriate armor that corresponds with the weapons you have, as opposed to just taking whatever has the highest defense.
 ***Melee: Melee players should have the Molten armor set, which costs 45 Hellstone Bars and provides 25 defense points (armors for Melee class will have the highest defense to survive more hits from enemies) as well as 17% increased melee damage,  7% melee critical strike chance, and 7% melee speed.
 *** Ranged: Rangers should have the Necro armor set, a post-Skeletron set that is crafted with 150 Bones and 135 Cobwebs. Despite having lower defense, it makes up for this by increasing ranged damage by 15% and a Set Bonus of  10% increased ranged critical strike chance/ 20% chance not to consume ammo.
@@ -301,7 +204,6 @@ The following is a list of preparations you may wish to consider before summonin
 **** Frostspark Boots which allows flight, very fast running, and extra mobility on ice, alongside boosting movement speed on 8%. This accessory is especially necessary during boss fights. Lava Waders are another important mobility accessory underground, which provides the ability to walk on honey, lava, and water. It also grants immunity to fire blocks and 7 seconds of immunity when in lava. On the , these two can be combined into the Terraspark Boots.
 **** One of the Horseshoe Balloons, which provide increased jump height, double jump (the best double jump is from the Yellow Horseshoe Balloon, crafted with the Sandstorm in a Bottle), and immunity to fall damage.  The Bundle of Horseshoe Balloons, while being much more expensive than other Horseshoe Balloons, provides the quadruple jump ability of the Bundle of Balloons along with fall damage immunity.
 **** Other useful equipment includes Lava Waders, Frog Leg, Jellyfish Diving Gear, Flying Carpet (if you have a Pyramid), Obsidian Shield, and Celestial Cuffs.
-
 
 * Ensure you've obtained key items. Many of these items are produced at the Tinkerer's Workshop, and the components will be much harder to get in Hardmode due to the much stronger enemies. 
 ** If at all possible, you should have created the following:
@@ -334,5 +236,7 @@ Once the player is ready to move on to the next phase of their world, Hardmode, 
 
 = Hardmode =
 
-
 == Footnotes ==
+footnotelist
+
+Guides
