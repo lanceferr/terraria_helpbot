@@ -28,90 +28,726 @@ Although not required for anything, it is strongly recommended to purchase a DPS
 == Gearing Up ==
 Upon entering a world for the first time, any weapon and accessory is better than nothing. This section contains items available from non-evil surface biomes and from the pure underground layer.
 
-Mages must increase their mana capacity through the use of 
+[Melee]
 
+Weapons:
+Enchanted BoomerangFlaming MaceCactus SwordSpearWooden SwordWooden Yoyo
+
+[Ranged]
+
+Weapons:
+Throwing KnifeShurikenSnowballWooden BowGrenadeBlowpipeAmmunition:
+Frostburn ArrowFlaming ArrowSeed
+
+[Magic]
+
+Weapons:
+Wand of FrostingWand of Sparking  
+Mages must increase their mana capacity through the use of Mana Crystal
+
+[Summoning]
+
+Minions:
+Abigail's FlowerFinch StaffWhips:
+Cobwhip  
+
+[Mixed]
+
+Cactus armorWooden armorPumpkin armorMoon Lord LegsAccessories:
+AgletShackleClimbing Claws
 Any and all accessories are useful early game, especially taking modifiers into account for stat increases. This can include informational accessories like the Radar or novelty accessories like the Step Stool, both which can be found when looting surface Chests.
 
 == Pre-Bosses ==
 At this stage, focusing on a class can be more beneficial since armor sets have class benefits. Many accessories still buff the player in general rather than one class, so using the most powerful weapon you find rather than one class is still very beneficial. Once you obtain 200 health, there is a chance for the Goblin Army to spawn, which unlocks the Tinkerer's Workshop from the Goblin Tinkerer which is used to upgrade and combine your accessories.
 
- or 
+[Melee]
 
-The Soulscourge or Vasculash can be reasonably used by early-game summoners to hold them over until they can take on the Jungle and obtain the crafting ingredients needed for the Snapthorn.
-Jungle armor is recommended solely due to its fairly high defense and its availability (both the Snapthorn's ingredients and the Feral Claws are found in the Jungle). It offers no other benefits to summoners.At this stage in progression, the most minion slots that summoners can have is three (one innate, one from the Flinx Fur Coat, and one from the Summoning Potion). On higher difficulties, it may be preferable for early-game summoners to avoid the Flinx Fur Coat and focus more on whip damage in favor of higher defense, since the Flinx Fur Coat only offers 1 defense.  
+Single-Target Weapons:
+Best:
+StarfuryBlade of GrassAmazonEnchanted SwordMandible BladeThorn ChakramCrowd-Control Weapons:
+Best:
+Ball O' Hurt}}Blade of GrassStylish ScissorsFlaming MaceStorm SpearThe Rotted Fork}}Light's Bane}}Blood Butcherer}}Best:
+Platinum armorGladiator armorGold armorAccessories:
+Post-Goblin Army:
+Strung Counterweight}}Feral ClawsMagma StoneCounterweightsWhite String
 
-Just the single minion slot provided by this chestpiece is incredibly valuable for hybrid builds, especially considering armor pieces from other sets, such as Fossil armor, can be mixed with the Flinx Fur Coat. Using shimmer, players can shimmer cactus into pumpkins to make Pumpkin armor, which provides a flat 10% increase in damage. This is especially beneficial in the early game when using weapons from multiple classes. However, their comparatively low defense can potentially be a drawback.
+[Ranged]
+
+Single-Target Weapons:
+Best:
+BoomstickBlood Rain BowMusket}}The Undertaker}}MinisharkPaintball GunBone JavelinCrowd-Control Weapons:
+Best:
+Tendon BowGrenadeBone Throwing KnifePost-Goblin Army:
+HarpoonSpiky BallBest:
+Fossil HelmetGiFossil GreavesFossil armorBuffs/Potions:
+Archery PotionSingle-Target Ammunition:
+Best:
+Frostburn ArrowShimmer ArrowSilver BulletTungsten BulletUnholy ArrowMusket BallCrowd-Control Ammunition:
+Best:
+Jester's ArrowUnholy Arrow
+
+[Magic]
+
+Single-Target Weapons:
+Best:
+Demon Scythe}}Thunder ZapperDiamond StaffRuby Staff or Amber StaffCrowd-Control Weapons:
+Best:
+Demon Scythe}}Vilethorn}}Diamond StaffRuby StaffSupport Weapons:
+Crimson Rod}}Best:
+Defensive:
+Jungle armorGlass Cannon:
+Wizard Hat}}Mystic RobeJungle PantsMagic Hat}}Diamond RobeAccessories:
+Post-Goblin Army:
+Celestial CuffsMagnet FlowerMana Regeneration BandBand of Starpower}}Nature's GiftBuffs/Potions:
+Mana PotionMana Regeneration PotionMagic Power PotionMana CrystalArcane Crystal
+
+[Summoning]
+
+Minions:
+Best:
+Minion-Mixing:
+Vampire Frog StaffFlinx StaffFinch StaffAbigail's FlowerWhips:
+Best:
+SnapthornSoulscourge}}Vasculash}}The Soulscourge or Vasculash can be reasonably used by early-game summoners to hold them over until they can take on the Jungle and obtain the crafting ingredients needed for the Snapthorn.
+Jungle HatWizard HatFlinx Fur CoatJungle PantsJungle armor is recommended solely due to its fairly high defense and its availability (both the Snapthorn's ingredients and the Feral Claws are found in the Jungle). It offers no other benefits to summoners.Accessories:
+Feral ClawsBuffs/Potions:
+Summoning PotionAt this stage in progression, the most minion slots that summoners can have is three (one innate, one from the Flinx Fur Coat, and one from the Summoning Potion). On higher difficulties, it may be preferable for early-game summoners to avoid the Flinx Fur Coat and focus more on whip damage in favor of higher defense, since the Flinx Fur Coat only offers 1 defense.  
+
+[Mixed]
+
+Defensive:
+Best:
+Platinum armorGladiator armorGold armorHybrid Summoner:
+Flinx Fur CoatJust the single minion slot provided by this chestpiece is incredibly valuable for hybrid builds, especially considering armor pieces from other sets, such as Fossil armor, can be mixed with the Flinx Fur Coat. Glass Cannon:
+Pumpkin armorUsing shimmer, players can shimmer cactus into pumpkins to make Pumpkin armor, which provides a flat 10% increase in damage. This is especially beneficial in the early game when using weapons from multiple classes. However, their comparatively low defense can potentially be a drawback.
+Mobility Accessories:
+Post-Goblin Army:
+Extra jumpLightning BootsAmphibian BootsSpectre BootsHermes BootsMagiluminescenceFledgling Wings}}Extra jumpBalloon PufferfishShiny Red BalloonFrog LegLucky HorseshoePanic Necklace}}Survivability Accessories:
+Band of RegenerationOffensive Accessories:
+Shark Tooth NecklaceMounts:
+ChilletRoller SkatesBuffs/Potions:
+Well FedHealing PotionIronskin PotionSwiftness PotionRegeneration PotionEndurance PotionWrath Potion}}Rage Potion}}Life CrystalVital Crystal
 
 == Pre-Skeletron==
 
 After defeating the first bosses, you gain access to more class-specific accessories and armor.
 
-The Starcrash's meteors do 1.33x the damage of the attack that summoned them, making it particularly effective with high-damage sentries or minions like the Ballista Rod or Imp Staff.On targets that these sentries can reliably hit, both the Houndius Shootius and the Ballista Rod perform phenomenally when combined with the Starcrash. This is because not only do both fire so slowly that when combined with the Starcrash they can summon a meteor on every hit, but they also have high base damage that can be multiplied by the Starcrash's unique effect. or 
+[Melee]
+
+Single-Target Weapons:
+Best:
+Hive-FiveFlamarangVolcanoBee KeeperStarfuryAmazonCrowd-Control Weapons:
+Best:
+VolcanoPhasebladesBlade of GrassStylish ScissorsHive-FiveAccessories:
+Feral ClawsStrung CounterweightMagma StoneBest:
+Molten armorShadow armor}}Crimson armor}}Buffs/Potions:
+Sharpening StationAleSakeFlask of Poison
+
+[Ranged]
+
+Single-Target Weapons:
+Best:
+Star Cannon}}The Bee's KneesMolten FuryBoomstickPew-matic HornBeenadeCrowd-Control Weapons:
+Best:
+Star Cannon}}The Bee's KneesMolten FuryBeenadeBest:
+Shadow armor}}Crimson armor}}GiFossil armorBuffs/Potions:
+Archery PotionSingle-Target Ammunition:
+Best:
+Hellfire ArrowParty BulletShimmer ArrowFrostburn ArrowSilver BulletTungsten BulletMusket BallCrowd-Control Ammunition:
+Best:
+Jester's ArrowMeteor ShotUnholy ArrowFrostburn Arrow
+
+[Magic]
+
+Single-Target Weapons:
+Best:
+Demon Scythe}}Gray ZapinatorThunder ZapperBee GunCrowd-Control Weapons:
+Best:
+Demon Scythe}}Gray ZapinatorSpace GunBee GunDiamond StaffRuby StaffSupport Weapons:
+Crimson Rod}}Weather PainBest:
+Defensive:
+Jungle armorOffensive:
+Wizard HatMystic RobeMeteor LeggingsMagic HatDiamond RobeMeteor armorAccessories:
+Celestial CuffsMagnet FlowerMana Regeneration BandBuffs/Potions:
+Mana PotionMana Regeneration PotionMagic Power Potion
+
+[Summoning]
+
+Minions:
+Best:
+Minion-Mixing:
+Vampire Frog StaffFlinx StaffImp StaffHornet StaffMushroom StaffWhips:
+SnapthornStarcrashThe Starcrash's meteors do 1.33x the damage of the attack that summoned them, making it particularly effective with high-damage sentries or minions like the Ballista Rod or Imp Staff.Sentries:
+Best:
+Houndius ShootiusBallista RodExplosive Trap RodOn targets that these sentries can reliably hit, both the Houndius Shootius and the Ballista Rod perform phenomenally when combined with the Starcrash. This is because not only do both fire so slowly that when combined with the Starcrash they can summon a meteor on every hit, but they also have high base damage that can be multiplied by the Starcrash's unique effect.Best:
+Obsidian armorBee armorAccessories:
+Feral ClawsPygmy NecklaceApprentice's Scarf or Squire's ShieldBuffs/Potions:
+Summoning Potion
+
+[Mixed]
+
+Hybrid Summoner:
+Bee armorGladiator armorMobility Accessories:
+Best:
+Bundle of Horseshoe BalloonsShield of CthulhuAmphibian BootsLightning BootsExtra jumpSpectre BootsMagiluminescencePanic Necklace Survivability Accessories:
+Best:
+Worm Scarf}}Brain of Confusion}}Band of RegenerationOffensive Accessories:
+Best:
+Stinger NecklaceShark Tooth NecklaceHive PackMounts:
+ChilletRoller SkatesBuffs/Potions:
+Well FedHealing PotionIronskin PotionSwiftness PotionRegeneration PotionEndurance PotionWrath Potion}}Rage Potion}}Life Crystal
 
 == Pre-Wall of Flesh ==
 Defeating Skeletron provides access to the Dungeon, giving access to Necro armor and new weapons from Dungeon and Shadow Chests.
+ 
 
-When considering damage builds specifically centered against the Wall of Flesh, summoners have three main options. The Spinal Tap has a lower range but dishes out higher DPS when either used all-in with the Mushroom Staff or when using minion-mixing. The Starcrash has better range and deals a respectable amount of DPS when used all-in with the Imp Staff.Bee armor is preferable if you are planning to use your minions more often and would like to play a more passive role focusing on dodging more than attacking yourself, but Obsidian armor trades 1 of your minions for +7% additional summon damage, +30% whip range, and +15% speed. 
- or 
+[Melee]
+
+Single-Target Weapons:
+Best:
+Night's EdgeDark LanceHive-FiveFlamarangCascadeStarfuryCrowd-Control Weapons:
+Best:
+Night's EdgeSunfuryDark LanceSupport Weapons:
+PhasebladesMolten armorAccessories:
+Feral ClawsStrung CounterweightMagma StoneBuffs/Potions:
+Sharpening StationAleSakeFlask of Poison
+
+[Ranged]
+
+Single-Target Weapons:
+Best:
+Star Cannon}}Phoenix BlasterQuad-Barrel ShotgunThe Bee's KneesBeenadeMolten FuryCrowd-Control Weapons:
+Best:
+Star Cannon}}Hellwing Bow}}Quad-Barrel ShotgunThe Bee's KneesBeenadeMolten FuryNecro armorBuffs/Potions:
+Archery PotionAmmo Reservation PotionSingle-Target Ammunition:
+Best:
+Hellfire ArrowParty BulletCrowd-Control Ammunition:
+Best:
+Jester's ArrowMeteor ShotUnholy Arrow
+
+[Magic]
+
+Single-Target Weapons:
+Best:
+Demon ScytheAqua ScepterGray ZapinatorFlamelashFlower of FireCrowd-Control Weapons:
+Best:
+Aqua ScepterDemon ScytheGray ZapinatorWater BoltFlamelashSupport Weapons:
+Crimson Rod}}Weather PainBest:
+General/Defensive:
+Jungle armorOffensive:
+Wizard HatMystic RobeMeteor LeggingsMagic HatDiamond RobeAccessories:
+Celestial CuffsMagnet FlowerBuffs/Potions:
+Mana Regeneration PotionMagic Power Potion
+
+[Summoning]
+
+Minions:
+Minion-Mixing:
+Vampire Frog StaffFlinx StaffImp StaffAll-In:
+Imp StaffMushroom StaffWhen considering damage builds specifically centered against the Wall of Flesh, summoners have three main options. The Spinal Tap has a lower range but dishes out higher DPS when either used all-in with the Mushroom Staff or when using minion-mixing. The Starcrash has better range and deals a respectable amount of DPS when used all-in with the Imp Staff.Whips:
+Single-Target Weapons:
+Best:
+Spinal TapStarcrashSnapthornCrowd-Control Weapons:
+Spinal TapBee armorObsidian armorBee armor is preferable if you are planning to use your minions more often and would like to play a more passive role focusing on dodging more than attacking yourself, but Obsidian armor trades 1 of your minions for +7% additional summon damage, +30% whip range, and +15% speed. 
+Accessories:
+Feral ClawsPygmy NecklaceApprentice's Scarf or Squire's ShieldBuffs/Potions:
+Summoning PotionBewitching TableWar TableFlask of Poison
+
+[Mixed]
+
+Hybrid Summoner:
+Bee HeadgearDefensive:
+Molten armorCrimson armor}}Shadow armor}}Gladiator armorGiMobility Accessories:
+Best:
+Bundle of Horseshoe BalloonsShield of CthulhuAmphibian BootsLightning BootsExtra jumpMagiluminescencePanic NecklaceSurvivability Accessories:
+Best:
+Worm Scarf}}Brain of Confusion}}Obsidian ShieldSweetheart Necklace}}Offensive Accessories:
+Best:
+Stinger Necklace}}Shark Tooth NecklaceBone GloveBone HelmHive Pack}}
+
+Mounts:
+Golf CartChilletRoller SkatesBuffs/Potions:
+Well FedRegeneration PotionIronskin PotionSwiftness PotionRage Potion}}Wrath Potion}}Heartreach PotionEndurance PotionGravitation PotionSlice of Cake
 
 == Pre-mechanical bosses ==
 At this point in the game, damage bonuses from armor and accessories become more significant, so it is recommended to choose a class to specialize in. Ranger is generally agreed to have the best weapons at this stage. However, melee also improves significantly due to melee armors having significantly higher defense than any other class. Magic is still heavily focused on crowd control, making it an effective class for those who want to take out The Destroyer first. Summoners have their best weapons locked behind Dreadnautilus and Queen Slime. It is recommended to mix your chosen class with summoner if you are running a primarily offensive loadout.
 
 This is also the point where a fully-defensive build begins to diverge from damage builds thanks to the availability of the Flesh Knuckles and Star Veil coupled with greater access to damage accessories, so it is a good time to decide whether you want to run a primarily offensive or defensive loadout and reforge your accessories accordingly.
 
-For the mechanical bosses, you have a choice between two main whip-summon combinations. The Sanguine Staff pairs well with the Firecracker due to its high base damage getting increased by the Firecracker's explosions, which deal 2.75x the damage of the attack that caused them. The Blade Staff pairs well with the Cool Whip because its fast attack speed and low base damage benefit from a flat damage increase. or 
+[Melee]
+
+Single-Target Weapons:
+Best:
+BananarangShadowflame KnifeChain Guillotines}}Fetid Baghnakhs}}Great:
+AmarokIce SickleHel-FireGradientChikCrowd-Control Weapons:
+Best:
+Drippler CripplerFetid Baghnakhs}}Flying KnifeDao of PowBladetongue}}Sergeant United ShieldBest:
+General/Offensive:
+Adamantite HelmetFrost BreastplateMythril GreavesDefensive:
+Titanium MaskFrost BreastplateAdamantite LeggingsTitanium armorAdamantite armorAccessories:
+Warrior EmblemYoyo BagBerserker's Glove}}Moon CharmBuffs/Potions/Flasks:
+Best:
+Flask of Ichor}}Flask of Cursed Flames}}Sharpening StationAleSake
+
+[Ranged]
+
+Single-Target Weapons:
+Best:
+Daedalus StormbowDart RifleCoin Gun|note=(Gold Coin)}}UziGatligator}}Onyx BlasterCrowd-Control Weapons:
+Best:
+Star Cannon}}Dart RifleBarrel LauncherUziBest:
+General/Offensive:
+Adamantite MaskFrost BreastplateMythril GreavesDefensive:
+Frost armorAdamantite armorAccessories:
+Best:
+Ranger EmblemMagic QuiverStalker's QuiverMolten QuiverBuffs/Potions:
+Archery PotionAmmo Reservation PotionAmmo BoxSingle-Target Ammunition:
+Best:
+Crystal Bullet.}}}}Ichor Arrow}}Cursed Arrow}}Ichor Dart}}Crowd-Control Ammunition:
+Cursed Dart}}Crystal DartJester's ArrowUnholy Arrow
+
+[Magic]
+
+Single-Target Weapons:
+Best:
+Orange ZapinatorSpirit FlameSky FractureCrystal SerpentMeteor StaffCrowd-Control Weapons:
+Best:
+Orange ZapinatorLife Drain}}Meteor StaffCrystal StormShadowflame Hex Doll}}Support Weapons:
+Nimbus RodClinger StaffGolden Shower}}Best:
+General/Offensive:
+Adamantite HeadgearAdamantite BreastplateForbidden TreadsDefensive:
+Titanium MaskAdamantite BreastplateForbidden TreadsAdamantite armorAccessories:
+Celestial CuffsSorcerer EmblemMana CloakBuffs/Potions:
+Mana Regeneration PotionMagic Power PotionCrystal Ball
+
+[Summoning]
+
+Minions:
+Best:
+Sanguine Staff}}Blade StaffAll-In:
+Abigail's Flower}}Spider StaffWhips:
+FirecrackerCool WhipFor the mechanical bosses, you have a choice between two main whip-summon combinations. The Sanguine Staff pairs well with the Firecracker due to its high base damage getting increased by the Firecracker's explosions, which deal 2.75x the damage of the attack that caused them. The Blade Staff pairs well with the Cool Whip because its fast attack speed and low base damage benefit from a flat damage increase.Sentries:
+Queen Spider StaffBarnacle StaffOffensive:
+Spider armorDefensive:
+Titanium MaskForbidden RobesSpider GreavesAccessories:
+Summoner EmblemBerserker's GlovePygmy NecklaceApprentice's Scarf or Squire's ShieldBuffs/Potions:
+Best:
+Flask of Ichor}}Flask of Cursed Flames}}Summoning PotionBewitching TableWar Table
+
+[Mixed]
+
+Hybrid Summoner:
+Spider Greaves}}Forbidden Robes}}Crystal Assassin armorMobility Accessories:
+Best:
+Fairy WingsBundle of Horseshoe Balloons}}Amphibian BootsShield of CthulhuLightning Boots Survivability Accessories:
+Best:
+Star VeilWorm Scarf}}Brain of Confusion}}Flesh Knuckles}}Berserker's Glove}}Ankh ShieldObsidian ShieldCharm of MythsFrozen Turtle ShellOffensive Accessories:
+Best:
+Putrid ScentStinger NecklaceMounts:
+Goat MountUnicorn MountBasilisk MountLilith's NecklaceWinged Slime MountRoller SkatesBuffs/Potions:
+Well FedRegeneration PotionIronskin PotionSwiftness PotionRage Potion}}Wrath Potion}}Heartreach PotionLifeforce PotionEndurance PotionSlice of Cake
 
 == Pre-Plantera ==
 At this point, players are expected to have chosen between melee, ranged, magic, summoning, or a hybrid of summoning and another class. This is also where significant armor variety starts to show up within the same class, with players choosing between Hallowed armor, Chlorophyte armor, and tier 2 Old One's Army armor. For magic and ranged, the choice lies between Hallowed armor (for offensive loadouts in need of a defensive effect) or Chlorophyte armor (for all-out offense). Melee users should use Turtle armor for pure defense, or some combination of Hallowed/Chlorophyte Mask, Monk's Shirt/Squire's Plating, and Squire's Greaves for the highest overall stats. If a reliable source of Defender Medals is not available, full Chlorophyte armor also works for offensive melee sets, and for defensive ranged/magic sets.
 
-As was the case in previous stages, ranged provides the highest long-distance DPS, melee provides the best tanking ability, magic provides the most unique weapon effects, and summoner provides the most effortless mob clearing.
+As was the case in previous stages, ranged provides the highest long-distance , melee provides the best tanking ability, magic provides the most unique weapon effects, and summoner provides the most effortless mob clearing.
 
-For Plantera, the same whip-summon combinations apply, but most summoners replace the Sanguine Staff with the Optic Staff after defeating The Twins.The Tavernkeep's armors provide minion and sentry bonuses while also providing significant melee, ranged, and magic bonuses. Hybridization is required to bring out their full potential. or 
+[Melee]
 
-The Shield of Cthulhu remains viable well into Hardmode because of its useful dash ability. 
+Single-Target Weapons:
+Best:
+True ExcaliburTrue Night's EdgeDeath SickleFetid Baghnakhs}}YeletsRed's ThrowValkyrie YoyoMushroom SpearChlorophyte PartisanCrowd-Control Weapons:
+Best:
+True ExcaliburTrue Night's EdgeFetid Baghnakhs}}Drippler CripplerDeath SickleChlorophyte PartisanBest:
+General:
+Hallowed MaskTurtle Scale MailSquire's GreavesOffensive:
+Chlorophyte MaskMonk's ShirtSquire's GreavesDefensive:
+Turtle armorHallowed armorChlorophyte armor
+Accessories:
+Warrior EmblemMechanical GloveFire GauntletMagic Yoyo BagBerserker's Glove}}Buffs/Potions/Flasks:
+Best:
+Flask of Ichor}}Flask of Cursed FlamesSharpening StationAleSake
+
+[Ranged]
+
+Single-Target Weapons:
+Best:
+FlamethrowerChlorophyte ShotbowMegasharkPhantom Phoenix}}Crowd-Control Weapons:
+Best:
+FlamethrowerPulse BowMegasharkPhantom Phoenix}}Chlorophyte ShotbowSuper Star ShooterBest:
+General:
+Chlorophyte armorDefensive:
+Chlorophyte armorOffensive:
+Adamantite MaskHuntress's JerkinMythril GreavesHallowed armorAccessories:
+Best:
+Ranger EmblemMagic QuiverStalker's QuiverMolten QuiverBuffs/Potions:
+Archery PotionAmmo Reservation PotionAmmo BoxSingle-Target Ammunition:
+Best:
+Crystal Bullet}}Holy ArrowIchor Arrow}}Fallen StarIchor Dart}}Crowd-Control Ammunition:
+Best:
+High Velocity Bullet}}Chlorophyte ArrowCursed DartFallen StarCrystal Dart
+
+[Magic]
+
+Single-Target Weapons:
+Best:
+Venom StaffOrange ZapinatorShadowflame Hex Doll}}Tome of Infinite Wisdom)}}Unholy TridentRainbow RodSpirit FlameCrowd-Control Weapons:
+Best:
+Venom StaffOrange ZapinatorMagical HarpTome of Infinite Wisdom)}}Unholy TridentRainbow RodLife Drain}}Support Weapons:
+Nimbus RodClinger Staff}}Best:
+General:
+Chlorophyte armorOffensive:
+Hallowed HeadgearChlorophyte Plate MailApprentice's TrousersDefensive:
+Hallowed HeadgearSquire's PlatingApprentice's TrousersHallowed armorForbidden TreadsAccessories:
+Celestial EmblemCelestial CuffsSorcerer EmblemBuffs/Potions:
+Mana Regeneration PotionMagic Power PotionCrystal Ball
+
+[Summoning]
+
+Minions:
+Best:
+Minion-Mixing:
+Spider StaffOptic StaffBlade StaffAll-In:
+Abigail's Flower}}Sanguine Staff}}Whips:
+DurendalFirecrackerFor Plantera, the same whip-summon combinations apply, but most summoners replace the Sanguine Staff with the Optic Staff after defeating The Twins.Sentries:
+Queen Spider StaffBallista CaneGeneral:
+Hallowed armorChlorophyte armorOffensive:
+Spider armorDefensive:
+Squire armorThe Tavernkeep's armors provide minion and sentry bonuses while also providing significant melee, ranged, and magic bonuses. Hybridization is required to bring out their full potential.Accessories:
+Summoner EmblemBerserker's GlovePygmy NecklaceApprentice's Scarf or Squire's ShieldBuffs/Potions:
+Best:
+Flask of Ichor}}Flask of Cursed Flames}}Summoning PotionBewitching TableWar Table
+
+[Mixed]
+
+Hybrid Summoner:
+Forbidden Robes}}Spider Greaves}}Crystal Assassin armorSquire's Great HelmMobility Accessories:
+Best:
+WingsAmphibian BootsBundle of Horseshoe Balloons}}Shield of CthulhuLightning BootsThe Shield of Cthulhu remains viable well into Hardmode because of its useful dash ability.Survivability Accessories:
+ Best:
+Worm Scarf}}Brain of Confusion}}Star VeilAnkh ShieldCharm of MythsMoon StoneFlesh Knuckles}}Berserker's Glove}}Offensive Accessories:
+Best:
+Avenger EmblemMoon StonePutrid ScentMounts:
+Winged Slime MountRoller SkatesBuffs/Potions:
+Well FedJungle JuiceRegeneration PotionIronskin PotionSwiftness PotionRage Potion}}Wrath Potion}}Heartreach PotionLifeforce PotionEndurance PotionSlice of CakeLife FruitAegis Fruit
 
 == Pre-Golem ==
 With the Hardmode Dungeon and the final version of the Solar Eclipse now available, players have access to a variety of new equipment. Furthermore, any Biome Keys you have obtained are now usable. You could attempt to bypass this stage by killing the Empress of Light, Duke Fishron, or summoning the Frost Moon, but most players will find it easier and more logical to kill Golem first.
 
 The transition from pre-Plantera to post-Plantera comes with a significant improvement to the equipment available, with the most prominent new items being melee weapons (Terra Blade, Vampire Knives) and magic armor (Spectre armor). With the exception of the Terra Blade providing near-endgame levels of power, the classes are otherwise very balanced at this stage.
 
- or 
+[Melee]
+
+Weapons:
+Best:
+Terra BladeVampire Knives}}Keybrand}}Psycho Knife}}Scourge of the Corruptor}}SeedlerSingle-Target Weapons:
+The Eye of CthulhuCrowd-Control Weapons:
+Flower PowPaladin's HammerBest:
+General:
+Hallowed MaskSquire's PlatingSquire's GreavesOffensive:
+Chlorophyte MaskMonk's ShirtSquire's GreavesDefensive:
+Turtle armorHallowed armorAccessories:
+Best:
+Warrior EmblemMechanical GloveFire GauntletBerserker's Glove}}Magic Yoyo BagBuffs/Potions/Flasks:
+Best:
+Flask of IchorFlask of VenomSharpening StationAleSake
+
+[Ranged]
+
+Single-Target Weapons:
+Best:
+Nail GunSniper RifleChlorophyte ShotbowPiranha GunVenus MagnumCrowd-Control Weapons:
+Best:
+Nail GunPulse BowPiranha GunVenus MagnumShroomite armorAdamantite MaskMythril GreavesAccessories:
+Best:
+Ranger EmblemMagic QuiverStalker's QuiverMolten QuiverBuffs/Potions:
+Archery PotionAmmo Reservation PotionAmmo BoxSingle-Target Ammunition:
+Best:
+Crystal Bullet}}Ichor Arrow}}Chlorophyte BulletVenom ArrowHoly ArrowCrowd-Control Ammunition:
+Best:
+Mini Nuke IChlorophyte ArrowHigh Velocity BulletNano Bullet
+
+[Magic]
+
+Single-Target Weapons:
+Best:
+Spectre StaffInferno ForkWasp GunToxic FlaskResonance ScepterCrowd-Control Weapons:
+Best:
+Wasp GunInferno ForkShadowbeam StaffSpectre StaffToxic FlaskResonance ScepterSupport Weapons:
+Rainbow GunMagnet SphereNimbus RodClinger StaffGeneral:
+Spectre armorDefensive:
+Spectre armorAccessories:
+Celestial EmblemCelestial CuffsSorcerer EmblemBuffs/Potions:
+Mana Regeneration PotionMagic Power PotionCrystal Ball
+
+[Summoning]
+
+Minions:
+Best:
+All-In:
+Deadly Sphere StaffDesert Tiger Staff}}Optic Staff}}Blade Staff}}Whips:
+Morning StarVulgar Display of FlowerFirecrackerSentries:
+Staff of the Frost HydraQueen Spider StaffBallista CaneBest:
+General/Offensive:
+Tiki armorDefensive:
+Squire's Great HelmSquire's PlatingTiki PantsSquire armorHallowed armorChlorophyte armorAccessories:
+Summoner EmblemHercules BeetleNecromantic ScrollPygmy NecklaceBerserker's GloveApprentice's Scarf or Squire's ShieldBuffs/Potions:
+Best:
+Flask of Ichor}}Flask of VenomSummoning PotionBewitching TableWar Table
+
+[Mixed]
+
+Hybrid Summoner:
+Tiki Pants}}Squire's Great HelmWeapons:
+Vampire Knives}}Mobility Accessories:
+Best:
+Master Ninja GearAmphibian BootsHoverboardShield of CthulhuLightning BootsMothron WingsBone WingsSpectre Wings Survivability Accessories:
+Best:
+Worm Scarf}}Brain of Confusion}}Star VeilFrozen ShieldMaster Ninja Gear}}Charm of MythsHero Shield}}Flesh Knuckles}}Berserker's Glove}}Moon StoneOffensive Accessories:
+Best:
+Avenger EmblemMoon StoneSpore SacPutrid ScentBuffs/Potions:
+Well FedJungle JuiceIronskin PotionEndurance PotionRage Potion}}Wrath Potion}}Regeneration PotionLifeforce PotionGravitation PotionSlice of Cake
 
 == Pre-Lunatic Cultist ==
 Equipment from Golem, Martian Invasion, and the final tier of the Old One's Army is now available. Challenging Duke Fishron, Empress of Light, the Pumpkin Moon, and the Frost Moon is also now feasible. This stage marks the availability of the first Hardmode magic weapons that truly excel against single targets. 
 
-Both sets of Beetle armor are viable for different situations. However, the offensive variant is not optimal when using weapons that have their DPS unaffected by melee speed, such as Vampire Knives.
+[Melee]
 
- or or or
+Single-Target Weapons:
+Best:
+Flying DragonInflux Waver}}Terra BladeSeedlerNorth PoleFlaironThe Eye of CthulhuPossessed HatchetStarlight}}The Horseman's Blade}}Sky Dragon's Fury)|bignote=}}Crowd-Control Weapons:
+Best:
+Flying DragonTerra BladeNorth PoleStarlight}}Christmas Tree SwordSky Dragon's Fury)}}General/Defensive:
+Hallowed MaskValhalla Knight's BreastplateValhalla Knight's GreavesBeetle armorOffensive:
+Chlorophyte MaskShinobi Infiltrator's TorsoValhalla Knight's GreavesBeetle armorBoth sets of Beetle armor are viable for different situations. However, the offensive variant is not optimal when using weapons that have their  unaffected by melee speed, such as Vampire Knives.Accessories:
+Warrior EmblemMechanical GloveFire GauntletBerserker's Glove}}Magic Yoyo BagBuffs/Potions/Flasks:
+Best:
+Flask of Ichor}}Flask of VenomAleSakeSharpening Station
 
-Both the Spectre Mask and Spectre Hood are useful for offense and defense, respectively. Generally speaking, a full set of Spectre armor with the Mask pales in comparison to a mix of Spectre Mask/Spectre Robe/Dark Artist's Leggings due to the set bonus of Spectre Mask being capped at 400 DPS.
+[Ranged]
+
+Single-Target Weapons:
+Best:
+Aerial BaneTsunamiEventideXenopopperSnowman CannonXenopopperSniper RiflePiranha GunChain GunCrowd-Control Weapons:
+Best:
+Snowman CannonStake LauncherEventideElf MelterPiranha GunAerial BaneBest:
+General/Offensive:
+Shroomite Headgear orShroomite Mask orShroomite Helmet orAdamantite MaskRed Riding DressRed Riding LeggingsDefensive:
+Chlorophyte HelmetValhalla Knight's BreastplateValhalla Knight's GreavesShroomite armorAccessories:
+Best:
+Recon ScopeSniper ScopeRanger EmblemBuffs/Potions:
+Swiftness PotionArchery PotionAmmo Reservation PotionAmmo BoxSingle-Target Ammunition:
+Best:
+Crystal Bullet}}Chlorophyte BulletIchor Arrow}}Mini Nuke INano BulletVenom ArrowRocket IIICrowd-Control Ammunition:
+Best:
+High Velocity BulletChlorophyte ArrowMini Nuke IRocket III
+
+[Magic]
+
+Single-Target Weapons:
+Best:
+Blizzard StaffBubble GunStellar TuneRazorpineLaser MachinegunCharged Blaster CannonBetsy's WrathNightglowCrowd-Control Weapons:
+Best:
+Razorblade TyphoonCharged Blaster CannonNightglowSupport Weapons:
+Rainbow GunMagnet SphereNimbus RodClinger StaffBest:
+General/Offensive:
+Spectre MaskSpectre RobeDark Artist's LeggingsDefensive:
+Spectre armorSpectre armorBoth the Spectre Mask and Spectre Hood are useful for offense and defense, respectively. Generally speaking, a full set of Spectre armor with the Mask pales in comparison to a mix of Spectre Mask/Spectre Robe/Dark Artist's Leggings due to the set bonus of Spectre Mask being capped at 400 .Accessories:
+Celestial EmblemCelestial CuffsSorcerer EmblemBuffs/Potions:
+Mana Regeneration PotionMagic Power PotionCrystal Ball
+
+[Summoning]
+
+Minions:
+Best:
+Terraprisma}}Second Best:
+Xeno StaffTempest StaffRaven StaffWhips:
+Best:
+KaleidoscopeElectric EelMorning StarDark HarvestSentries:
+Best:
+Ballista StaffExplosive Trap StaffLightning Aura StaffStaff of the Frost HydraBest:
+General:
+Tiki armorOffensive:
+Spooky armorDefensive:
+Valhalla Knight armorValhalla Knight's Breastplate}}Accessories:
+Summoner EmblemHercules BeetlePapyrus ScarabNecromantic ScrollPygmy NecklaceBerserker's GloveBuffs/Potions:
+Best:
+Flask of Ichor}}Flask of VenomSummoning PotionBewitching TableWar Table
+
+[Mixed]
+
+Weapons:
+Vampire Knives}}Betsy's WrathHybrid Summoner:
+Shinobi Infiltrator's Helmet}}Spooky Breastplate}}Spooky Leggings}}Beetle armorValhalla Knight's BreastplateMobility Accessories:
+Best:
+Soaring InsigniaMaster Ninja GearBetsy's WingsEmpress WingsAmphibian BootsShield of CthulhuLightning BootsFishron WingsSurvivability Accessories:
+Best:
+Frozen ShieldStar VeilWorm Scarf}}Brain of ConfusionCelestial ShellMaster Ninja Gear}}Hero Shield}}Flesh Knuckles}}Berserker's Glove}}Charm of MythsOffensive Accessories:
+Best:
+Celestial ShellDestroyer EmblemAvenger EmblemMounts:
+Scutlix MountCute FishronWitch's BroomUFO MountBuffs/Potions:
+Well FedJungle JuiceIronskin PotionEndurance PotionRage Potion}}Wrath Potion}}Regeneration PotionLifeforce PotionGravitation PotionSlice of Cake
 
 == Pre-Moon Lord ==
 The armor, accessories, and buffs/potions from the Pre-Lunatic Cultist section should be used.
 
-You have a choice between two main options. The Stardust Dragon Staff performs well with the Firecracker due to its base damage multiplying effect, while the Terraprisma's fast attack speed makes it work well with the  Constellation due to its relatively high tag damage effect.
+[Melee]
+
+Single-Target Weapons:
+DaybreakFlying Dragon}}Crowd-Control Weapons:
+Flying DragonTerra Blade
+
+[Ranged]
+
+Single-Target Weapons:
+PhantasmVortex BeaterSingle-Target Ammunition:
+Best:
+Ichor ArrowCrystal BulletVenom ArrowChlorophyte BulletCrowd-Control Ammunition:
+Chlorophyte Arrow
+
+[Magic]
+
+Single-Target Weapons:
+Nebula BlazeCrowd-Control Weapons:
+Nebula Arcanum
+
+[Summoning]
+
+Minions:
+Best:
+Stardust Dragon Staff}}TerraprismaStardust Cell StaffWhips:
+ConstellationFirecrackerYou have a choice between two main options. The Stardust Dragon Staff performs well with the Firecracker due to its base damage multiplying effect, while the Terraprisma's fast attack speed makes it work well with the  Constellation due to its relatively high tag damage effect.
+
+[Mixed]
+
+Weapons:
+Betsy's WrathBuffs/Potions:
+Super Healing Potion
 
 == Endgame ==
 At this point you are free to use whatever you want, since the Zenith kills everything easily regardless of what equipment you're wearing, and most of the other Moon Lord drops aren't far behind. Since there is no more combat-related content left in the game, the hands-off nature of summoner makes it convenient for those who want to transition from combat to building, terraforming, or other activities.
 
+[Melee]
+
+Single-Target Weapons:
+Best:
+ZenithVampire Knives}}MeowmereStar WrathTerrarianCrowd-Control Weapons:
+Best:
+ZenithMeowmereSolar Eruption}}TerrarianBest:
+Solar Flare armorValhalla Knight's Greaves}}Accessories:
+Warrior EmblemMechanical GloveFire GauntletBerserker's Glove}}Magic Yoyo BagBuffs/Potions/Flasks:
+Best:
+Flask of Ichor}}SakeFlask of VenomAleSharpening Station
+
+[Ranged]
+
+Single-Target Weapons:
+Best:
+S.D.M.G.Phantasm}}Celebration Mk2}}Vortex Beater}}Snowman CannonCrowd-Control Weapons:
+Best:
+S.D.M.G.Phantasm}}Celebration Mk2}}Snowman CannonEventideVortex armorAccessories:
+Ranger EmblemMagic QuiverRecon ScopeSniper ScopeBuffs/Potions:
+Swiftness PotionArchery PotionAmmo Reservation PotionAmmo BoxAmmunition:
+Best:
+Crystal Bullet}}Chlorophyte Bullet}}Luminite Bullet.}}}}Luminite ArrowMini Nuke IEndless Musket PouchEndless QuiverHoly ArrowIchor Arrow}}Chlorophyte ArrowVenom ArrowRocket III
+
+[Magic]
+
+Single-Target Weapons:
+Best:
+Last PrismLunar FlareNebula BlazeBetsy's WrathCrowd-Control Weapons:
+Best:
+Last PrismNebula ArcanumRazorblade TyphoonSupport Weapons:
+Nimbus RodMagnet SphereRainbow GunClinger StaffNebula armorAccessories:
+Celestial EmblemCelestial CuffsSorcerer EmblemArcane FlowerMana CloakBuffs/Potions:
+Mana Regeneration PotionMagic Power PotionCrystal Ball
+
+[Summoning]
+
+Minions:
+Best:
+Stardust Dragon Staff}}TerraprismaStardust Cell StaffWhips:
+PossessionFirecrackerSentries:
+Best:
+Lunar Portal StaffRainbow Crystal StaffBest:
+Offensive:
+Stardust armor}}Defensive:
+Valhalla Knight armorAccessories:
+Papyrus ScarabSummoner EmblemHercules BeetleNecromantic ScrollPygmy NecklaceBerserker's GloveBuffs/Potions:
+Best:
+Flask of Ichor}}Flask of VenomSummoning PotionBewitching TableWar Table
+
 For Moon Lord and endgame there are once again two whip-summon combinations. The Stardust Dragon Staff benefits greatly from the Firecracker due to its high base damage and Firecracker multiplying it. But due to the Firecracker's low range, it requires you to get close to enemies and bosses, although Tiki armor can help with this. The Terraprisma benefits from the Possession due to its brisk attack speed benefitting from the high tag damage from the Possession. However, to obtain one you must fight the Empress of Light during daytime, which is an incredibly difficult task as every attack from the boss will one-shot the player during the daytime.
+
+[Mixed]
+
+Weapons:
+Vampire Knives}}Betsy's WrathHybrid Summoner:
+Stardust PlateStardust LeggingsValhalla Knight's BreastplateMobility Accessories:
+Best:
+Celestial StarboardSoaring InsigniaMaster Ninja GearShield of CthulhuAmphibian BootsSolar WingsStardust WingsNebula MantleVortex BoosterSurvivability Accessories:
+Best:
+Frozen ShieldStar VeilWorm Scarf}}Brain of Confusion}}Celestial ShellCharm of MythsHero Shield}}Flesh Knuckles}}Berserker's Glove}}Master Ninja Gear}}Offensive Accessories:
+Best:
+Celestial ShellDestroyer EmblemAvenger EmblemMounts:
+Scutlix MountUFO MountCute FishronWitch's BroomWinged Slime MountBuffs/Potions:
+Well FedIronskin PotionEndurance PotionRage Potion}}Wrath Potion}}Regeneration PotionLifeforce PotionGravitation PotionSlice of Cake
 
 == Other ==
 
 Some equipment sets are not meant for fighting, but for other activities, such as fishing, building and exploring. All equipment is optional and makes it easier to perform the task, but otherwise simply use what is at hand.
 
+[Building/Wiring]
+
+Tools:
+Best:
+Spectre PaintbrushSpectre Paint RollerSpectre Paint ScraperThe Grand DesignActuation RodBottomless Water BucketBottomless Lava BucketBottomless Honey BucketBottomless Shimmer BucketUltra Absorbant SpongeIce RodMulticolor WrenchPaintbrushPaint ScraperPaint Roller
+Hooks:
+Static HookLunar HookAccessories:
+Best:
+ToolbeltToolboxHand Of CreationPresseratorMovement accessoriesUFO MountCute FishronWitch's BroomArchitect Gizmo PackMechanical RulerAncient ChiselPotions/Buffs:
+Builder PotionTorch God's FavorTorch God's Flavor
+
 The Mechanic NPC unlocks wiring, selling the basic tools. 
 Summoner gear is useful for defending against enemies while building.
 
+[Fishing]
+
+Tools:
+Golden Fishing RodHotline Fishing Hook}}Chum Caster}}Chum BucketBest:
+Captain armorAngler armorAccessories/Mounts:
+Best:
+Angler EarringAngler Tackle Bag}}Lavaproof Tackle Bag}}Fishing BobberMollusk WhistleShellphoneHigh Test Fishing LineTackle BoxLavaproof Fishing HookInner TubeCell PhoneFish FinderPotions:
+Fishing PotionSonar PotionCrate Potion}}TipsyBait:
+Best:
+Master BaitMagma Snail}}Journeyman BaitLavafly}}Enchanted NightcrawlerHell Butterfly}}
+
 Summoner gear might prove useful to defend against enemies while fishing. A Shield of Cthulhu can be used without interrupting fishing. The Chum Caster is optimal if you are trying to fish up Blood Moon enemies. The Inner Tube and Mollusk Whistle only provide a fishing bonus while in water, and do not stack with one another. For this reason, the Mollusk Whistle may be preferable due to saving an accessory slot.
 
-Movement accessories
+[Catching]
+
+Tools:
+Best:
+Golden Bug NetLavaproof Bug NetBug NetAccessories:
+Lifeform AnalyzerGuide to Critter CompanionshipBuffs/Potions:
+Battle PotionWater Candle
+
+[Exploring/Mining]
+
+Tools:
+Best:
+Luminite Pickaxes}}Celebration Mk2}}Drill Containment Unit}}Zenith}}Spelunker Potion}}BombDynamiteDigtoiseSpelunker GlowstickFlare GunFairiesBinocularsRod of HarmonyFlying DragonSolar EruptionShellphoneBest:
+Ultrabright HelmetProspector ShirtProspector PantsMining ShirtMining PantsProspector HelmetMining HelmetAccessories:
+Best:
+Hand Of CreationCelestial ShellArctic Diving GearFire GauntletMovement accessoriesAncient ChiselMagma StoneCelestial StoneBuffs/Potions:
+Exploration:
+Dangersense PotionGravitation PotionSpelunker PotionWater Walking PotionTeleportation PotionRecall PotionWormhole PotionMining:
+Mining PotionDefense:
+Obsidian Skin PotionCalming PotionPeace CandleLight Pets:
+Best:
+Suspicious Looking TentacleMagic LanternFlickerwickWisp in a Bottle
 
 == External links ==
 * Jason's Terraria Guide
 
 == Footnotes ==
-footnotelist
-reflist
-
-Guides
