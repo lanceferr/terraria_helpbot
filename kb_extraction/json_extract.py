@@ -19,7 +19,10 @@ def save_to_manifest(page_title, clean_content, source_url, game_state):
     os.makedirs(output_dir, exist_ok=True)
 
     # Create a safe filename (replace colons/spaces)
-    safe_name = page_title.lower().replace(":", "_").replace(" ", "_")
+    safe_name = page_title.lower()\
+        .replace(":", "_")\
+        .replace("/", "_")\
+        .replace(" ", "_")
     file_path = f"{output_dir}/{safe_name}.json"
 
     # Save as JSON

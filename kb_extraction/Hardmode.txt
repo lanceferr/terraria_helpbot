@@ -1,0 +1,214 @@
+== Starting Hardmode ==
+Right after the Wall of Flesh is killed, Hardmode starts. The Wall of Flesh will have dropped some helpful loot, it will drop a weapon, a damage-increasing emblem, and the Pwnhammer. In Expert and Master Mode it will also drop a Demon Heart, which permanently gives the player an extra accessory slot. Consider temporarily changing your class depending on what it drops, especially if it drops a matching weapon and emblem. It may also be helpful to kill the Wall of Flesh more than once if you do not wish to change your class. If you've located the Shimmer, you can throw your emblem into it and cycle it through the possible emblems. The weapon it drops will outclass every single Pre-Hardmode weapon except for the Star Cannon, which has extremely annoying ammo to farm. Consider staying in the Underworld for a bit, as a one new weapon is now available and one accessory is easier to farm for. The Magma Stone is easier to farm, as the new Lava Bats have over double the drop rate of the old Hellbats. The Hel-Fire now has a 1/400 chance to drop from any enemy in Underworld, and it's much more powerful than any Pre-Hardmode yoyo.
+
+After getting everything desired from the Underworld, you need to prepare to break altars and mine Hardmode ores. This requires venturing into difficult biomes with new Hardmode enemies. To prepare for this, Spider armor and the Spider Staff are highly recommended. They are easily acquired by farming Black Recluses in a Spider Nest. Any weapon that can fire through walls or through one block gaps can easily do this, and summon weapons can make the task nearly effortless. Spider Armor has only slightly less defense than Molten Armor, but provides much greater offensive boosts. The Spider Staff vastly outclasses every Pre-Hardmode weapon, and is boosted by the Spider armor. You may also acquire a Poison Staff, which is as a nice upgrade from Pre-Hardmode magic weapons.
+
+== Smashing Altars ==
+Starting Hardmode is very hard: you’re underequipped and almost everything is stronger than you. You will have to return underground in search of ores to get some decent gear. But first, you’ll need to make a detour because none of that new ore actually exists yet. You’ll have to smash a few Altars with the Pwnhammer to make it appear. Every time you destroy an Altar, ore will be generated in various places underground, spawning more densely at lower depths.
+
+* The first altar destroyed will spawn Cobalt / Palladium.
+* The second altar destroyed will spawn Mythril / Orichalcum.
+* The third altar destroyed will spawn Adamantite / Titanium.
+
+The pattern will repeat with additional altars destroyed, spawning more Cobalt or Palladium, then more Mythril or Orichalcum, then more Adamantite or Titanium. There's diminishing returns on this: after you've smashed your first three altars, generating that amount of ore again requires you to smash a further nine (12 total), then 21 (33 total).
+
+ Also note, however, that each altar destroyed may spawn a new block of Ebon/Crimstone, or Pearlstone somewhere in the world, causing the respective biomes to spread from another location.
+
+On your way to smash altars, you may find yourself passing through some of these biomes:
+
+|outro=
+The Hallow spreads rapidly through the world, just like the Corruption and Crimson. Be wary of the seemingly whimsical denizens of the Hallow. All of them are hostile and are just as dangerous as their corrupted counterparts. Like with the evil biomes, players new to Hardmode should avoid staying in this biome for longer than necessary.
+}}
+
+ 
+
+|outro=
+Corruption now spreads through the world at a fast pace. Players that are new to Hardmode should move through this biome as quickly as possible.
+}}
+
+ 
+
+|outro=
+Crimson spreads identically to Corruption, and is just as dangerous, or perhaps even worse, since the Herpling, which has no corrupt counterpart, exists. They are very fast, have a short hitbox, high health, defense, and high damage. Their only significant weakness is rough terrain, as they will have difficulty reaching the high speeds they often use to surprise players. Extra caution is advised, especially in flat terrain.
+}}
+
+== Mining Hardmode Ores ==
+Once enough ore has been spawned, the player should begin mining Cobalt or Palladium with a Molten Pickaxe. The other ores cannot be mined. Proceed with extreme caution: the most dangerous biomes in Hardmode are found underground. If the player created a Hellevator, they should use it to access the lower layers quickly. Hardmode ores are more abundant deeper underground.
+
+It can be very difficult to survive long enough in Hardmode biomes to mine enough ore. If the player finds they are having difficulty mining, they should consider looking for ores in the ceiling of the Underworld. This biome has the same mobs as it did pre-Hardmode, making it considerably safer than almost anywhere else in the world.
+
+Aim to upgrade to a Cobalt Pickaxe or Palladium Pickaxe (or their drill equivalents) as quickly as possible. The Cobalt Drill or Pickaxe and its counterpart can mine Mythril/Orichalcum. The first Mythril/Orichalcum ores mined should be used to craft a Hardmode Anvil and then a Mythril Pickaxe or Orichalcum Pickaxe (or their Orichalcum counterparts). The Mythril Drill and Pickaxe (and their Orichalcum counterparts) can mine Adamantite/Titanium. The first 30 Adamantite/Titanium ore mined should be used to create an Adamantite Forge or Titanium Forge. Upgrading to an Adamantite Pickaxe or Titanium Pickaxe isn't crucial, as it does not grant access to any new ores.
+
+Be mindful when opening chests. A seemingly innocuous treasure chest may be a Mimic posing as a chest. Mimics will chase the player when they approach or when attacked. A good approach is to shoot any chests with a ranged weapon before opening them. This will cause any Mimics to break their ruse and attack. Mimics can drop items that are incredibly useful in Hardmode, and also always drop several gold coins.
+
+Use any leftover ore to upgrade armor, then weapons, and lastly tools. Keep mining until enough Adamantite or Titanium is collected to craft a full set of armor and any weapons or tools the player may want.
+
+=== The Goblin Army (Hardmode) ===
+
+The Pirate InvasionThe Pirate Invasion can generally be difficult in early Hardmode, so it is best if the player is prepared in case one arrives. When a Pirate Invasion spawns or is summoned using a Pirate Map, a message will appear saying "Pirates are approaching from the (East/West)!"
+When the Pirates' initial wave reaches the spawn, their arrival is announced with "The Pirates have arrived!" 
+
+For more information, see Pirate Invasion for more info and tips.
+
+== The Great Run-up ==
+Whilst you're trying to find enough ore to make better gear, it's highly recommended that you make the following other preparations in the run-up to the mech bosses:
+
+* Make sure you have a home for the Wizard. Like the Goblin Tinkerer and Stylist, he can be found tied up underground. This NPC is mandatory for magic users, as he sells Greater Mana Potions and crafting ingredients used to craft some very powerful spells.
+* Make sure you have a full set of buff potions and at least a stack of Greater Healing Potions or Honeyfin. The mech bosses' damaging attacks will eat away at your health very quickly, so acquiring better potions is recommended.
+
+== Collecting Souls ==
+Collecting souls is the last task the player should complete before fighting the Mechanical bosses. There are three types of souls dropped by normal monsters: Soul of Light, Soul of Night, and Soul of Flight. Souls of Light can be obtained from any monster found in the Underground Hallow, Souls of Night can be obtained from any monster found in the Underground Corruption or Crimson, and lastly, Souls of Flight can be obtained from Wyverns. The order in which the player obtains these souls does not matter. However, it can be advantageous to gather Souls of Flight first, as Wings are very useful when navigating the Underground Hallow or Underground Corruption.
+
+=== Soul of Flight ===
+Wyverns can be found at very high altitudes, at around the same level as Floating Islands. Look for Wyverns on Floating Islands, as it is much easier to fight them this way.
+
+=== Soul of Light ===
+Souls of Light can be found by killing enemies in the Underground Hallow. Underworld Enemies spawned below the Underground Hallow will also drop Souls. Try to gather crystal shards while looking for souls. Try to gather at least 50 souls, although more is better. If the Hallow in your world went through a Spider Nest, you can also farm the spiders, taking advantage of their fast spawn rate.
+
+=== Soul of Night ===
+Souls of Night can be found by killing enemies in the Underground Corruption and Crimson. Many of the same rules apply within these biomes.
+
+=== Miscellaneous Items ===
+There are a few other important items not mentioned above:
+* Pixies from the surface Hallow will drop Pixie Dust, which is needed to make Greater Healing Potions, or combined with Unicorn Horns to make Holy Arrows.
+* Mummies from the Corrupt or Crimson Desert will drop Dark Shards; Mummies from the Hallowed Desert will drop Light Shards. Collect these to craft the Dao of Pow.
+* Biome Keys have an extremely rare drop from enemies in the six main biomes (Hallow, Corruption, Crimson, Jungle, Desert, and Snow). These can be used to open the Biome Chests in the Dungeon once that Plantera has been defeated (see below), which contain extremely powerful items.
+* Mimics can appear in just about any biome. Look for Mimics using Hunter Potions or a Lifeform Analyzer and kill them until you get a Philosopher's Stone and a Cross Necklace.
+** Fifteen Souls of Light or Night can be used to make Light or Night Keys, respectively. A Key of Light or Night placed into an empty chest will create Hallowed or Corrupt/Crimson Mimics, which are larger than normal mimics and more dangerous, but with unique rewards.
+** Hallowed, Corrupt and Crimson Mimics can also naturally appear in their respective underground biomes.
+
+== Queen Slime ==
+
+Queen Slime is an entirely optional boss: none of its drops are necessary for game advancement.
+
+She is summoned by using a Gelatin Crystal, found in the underground hallow alongside Crystal Shards, anywhere in any hallowed biome.
+Defeating her rewards you with similar drops to King Slime: the Crystal Assassin armor set, the only armor set to increase all types of damage, the Hook of Dissonance, which teleports you to the grappled location, and the Gelatinous Pillion, allowing increased airborne movement capabilities. In Expert and Master mode, she also drops the Volatile Gelatin which automatically hurls bouncing slime balls at nearby enemies. 
+
+Like King Slime, much of the reason she is easier than the 3 main bosses at this point is because of her limited movement and attacking capabilities; she has no rapid, long range attack, and even in her second form she moves significantly slower than The Twins or Skeletron Prime.
+
+=The Three Mechanical Bosses=
+
+Once you have a stockpile of the various hardmode resources, it's time to begin preparing to defeat the first three hardmode bosses. Each must be summoned with an item that can be crafted or dropped by enemies. It's also possible for one to spawn on its own at sunset, though the player will probably not be able to defeat it unless they are well prepared.
+
+== Recommended Equipment for Mechanical Bosses ==
+Following is a list of equipment recommendations for use against the mechanical bosses. This is not an exhaustive list; other items may prove to be effective. This list assumes that only Queen Slime has been defeated:
+
+== Building a Hardmode Arena ==
+
+Proper terrain preparation is almost completely essential to successfully defeat all three mechanical bosses. Players who intend to solo the hardmode bosses will find the task very challenging without an adequate arena.
+
+For solo players, build a very long bridge out of wood platforms. The bridge should be at least 1000 platforms long, but 2500 is recommended. Build the bridge a large distance from the ground; the ground should not be visible from any part of the bridge. Place blocks at each end of the bridge to prevent running off of the sides.
+
+For team players, the arena can be much shorter. A team arena can be between 250-500 platforms long, but should also have 2-3 separate rows. Space the rows so they are not too close together, but are reachable with rocket boots.
+
+Another Re-Usable Arena can be made out of the pre-hardmode boss arena, the old ones army one, and your skybridge. This allows reusing of the old arenas for Eye of Cthulhu/King Slime, events, and the wyvern arena.
+
+Consider setting up Heart Statues and Star Statues on 1 Second Timers, as well as Sunflowers, Heart Lanterns, Campfires, Bast Statues, Garden Gnomes, and pools of Honey as these can make the battles much easier.
+
+If you don't quite feel up to the task of making a second very long bridge, you could simply use the first one you built for the Wall of Flesh. This will also make the first fight easier due to all of the ambient light. However, after defeating your first mechanical boss, this becomes much harder due to the additional spawns of Lava Bats and Red Devils.
+
+== Fighting the Mechanical Bosses ==
+
+The Destroyer is arguably the easiest of the three bosses and should be fought first. The Destroyer has a chance of spawning naturally at sunset with the message "You feel vibrations deep below..." It can also be summoned by using a Mechanical Worm at night. Fight the Destroyer first if you prefer melee or ranged, as its souls can be used to craft the Light Disc and the Megashark.
+
+Hallowed equipment (except for the Drax/Pickaxe Axe, which is necessary for progression) doesn't require boss souls; it only requires Hallowed Bars, which you can farm up from the Destroyer.
+
+It is recommended to fight Skeletron Prime next, as ranged characters can make a Flamethrower if he is defeated.
+
+The last of the three mechanical bosses is the Twins. This boss is the hardest of the three for most players and should be defeated last. The Twins have a chance of spawning at sunset with the message "This is going to be a terrible night..." They can also be summoned by using a Mechanical Eye at night. The Twins are recommended for magic and summoner players, as the Rainbow Rod, Magical Harp, and Optic Staff will be very useful weapons later on.
+
+Once any mechanical boss has been defeated, new challenges unlock, and the player gains access to new materials to work with, starting with the souls and bars dropped by the boss. Hallowed Bars can be used to craft Hallowed armor and several kinds of weapons.
+
+The player can also return to the Underground Jungle to search for Life Fruit, a consumable item that can increase the player's maximum health to 500.
+
+The Solar Eclipse is a very rare event and drops powerful weapons for all classes. You may need to do many before obtaining every item. In the , the Solar Eclipse can be summoned manually using a Solar Tablet, which can be crafted with eight Solar Tablet Fragments. The fragments drop from Flying Snakes And Lihzahrds, and can be found in Lihzahrd Chests in the Jungle Temple.
+
+==Return to the Underground Jungle==
+
+== Plantera ==
+While observing the jungle at this stage, the player may find a mysterious pink bulb. Destroying this bulb with a drill or pickaxe summons the boss Plantera.
+
+Upon defeating Plantera, the message "Screams are echoing from the dungeon..." appears, and powerful new enemies are added to the Dungeon. The boss also drops the Temple Key, which is used to open the Jungle Temple.
+
+Additionally, the Truffle NPC starts selling the Autohammer that is used to craft a ranged Shroomite armor via Glowing Mushrooms and Chlorophyte bars.
+
+== Jungle Temple ==
+
+== Golem ==
+At the bottom of the Jungle Temple, there is a boss room with a lihzahrd altar. Using a Lihzahrd Power Cell on it summons the Golem.
+
+=Return to the Dungeon=
+
+=The Pumpkin Moon=
+
+=The Frost Moon=
+
+=Martian Madness=
+
+=Duke Fishron=
+
+Duke Fishron is one of the hardest bosses in the game. Just summoning the Duke is a significant challenge in itself, as you will need to capture the rare Truffle Worm. The spawn rates in naturally occurring Underground Glowing Mushroom biomes are low, and if you intend on getting the Fishron Wings (/), as well as all his drops, you’ll need to defeat him on average 15/ times. Your best bet is to build a Truffle Worm farm by mining out an area that is at least 168 by 99 tiles, then building a horizontal line of mud in the middle of the area, then covering it with Mushroom Grass by using Mushroom Grass Seeds.
+
+Shown below is the recommended gear for defeating Duke Fishron:
+=== Armor ===
+
+=== Weapons ===
+
+=== Accessories ===
+
+=== Potions and Buffs ===
+
+If you sit still or linger in the same area for too long, he will kill you quite quickly, whereas if you keep moving and keep your distance, you shouldn’t take much damage. It is important to keep in mind that if you move too far away from him that he will despawn, wasting a precious Truffle Worm.
+
+For more strategies to defeat the Duke, see Guide:Duke Fishron strategies.
+
+=The Lunatic Cultist=
+
+=The Celestial Pillars=
+Once the Lunatic Cultist is defeated, four pillars will spawn in the world. These can easily be found with the map. Be sure to pick up the Ancient Manipulator the Cultist drops, as it is needed to craft end-game gear.
+
+Chances are that you will be near a pillar when they spawn. The pillars represent the four classes: Solar for melee, Vortex for ranged, Nebula for magic, and Stardust for summoning. There is no set order necessary to kill them, but it is preferable to take on the one corresponding to your class first, then the Stardust Pillar to get the powerful Stardust Dragon Staff.
+
+Once the final Pillar is defeated, the status message "Impending doom approaches..." will appear. About a minute later, the Moon Lord will spawn. It is recommended to have potions for the fight, as he will easily kill you if you are not prepared.
+
+=The Moon Lord=
+
+The Moon Lord, bearing a striking resemblance to Cthulhu but confirmed not to be by the developers (although at health thresholds it spawns True Eyes of Cthulhu), is summoned directly after defeating the final Celestial Pillar and serves as Terraria's final boss as of version 1.3.
+{{infocard|class=compact|css=margin-top: 1em;min-width:500px;
+|type=Boss|name=Moon Lord
+|color=#B9A57F
+|iconalt=
+
+== The Post-Game ==
+After defeating the moon invasions and acquiring all their drops, the player is free to do anything. You could try designing an ultimate castle or PvP with other top-tier players, or even overcome incredibly difficult challenges (e.g. Frost Moon wave 15+ with Ranger, no arena.) The only end is the player's imagination!
+
+Some things you might try:
+* Purify the Corruption or Crimson biomes.
+* Reach top tier in Fishing and acquire the Hotline Fishing Hook/Golden Fishing Rod.
+* Beat multiple Bosses at once.
+* Complete all the achievements.
+* Defeat the Dungeon Guardian.
+* Get 100% in the Bestiary.
+* Play on an online server.
+* Explore player-made custom maps and content.
+* Make your own theme park using minecarts.
+* Learn how to golf.
+* Experiment with the extremely elaborate combinations possible with wiring and teleporters, such as making your own in-game computer!
+* Try to complete the game as different Classes.
+* Do a hardcore playthrough.
+* Do speedruns.
+* Play, design, and/or create new PvP modes for all to enjoy!
+* Acquire every single weapon and tool.
+* Obtain every single armor and vanity set.
+* Gather up every single accessory and dye.
+* Collect every single Trophy/Relic and Banner.
+* Play through the game on Expert Mode or Master Mode.
+* Seek out the rarest items in the game, such as the Nymph Banner or Pinky Banner.
+* Find bugs and glitches so developers can fix them.
+* Create a mod or texture pack, or maybe an adventure/puzzle map.
+* Become a wiki contributor!
+* Get every item in the duplication window (Journey Mode).
+
+== References ==
+
+== Footnotes ==

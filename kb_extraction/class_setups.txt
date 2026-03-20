@@ -1,7 +1,7 @@
 Terraria has no formal player class or leveling system. However, weapons can be grouped into four distinct categories based on their damage type – melee, ranged, magic, and summoner. Alongside weapons, several armor sets and accessories operate in tandem to these and potentially can only benefit specific damage types and/or playstyles. Each class has its strengths and weaknesses and has a wide variety of weapons to choose from.
 
 ; Melee
-The melee class sports high defense and decent crowd control, but many melee weapons have a short attack range, and those that are viable at a distance tend to do lower damage than their close-range counterparts. This encourages melee users to use their defense to tank hits while attacking with their stronger close-ranged weapons. Melee weapons include swords, spears, yoyos, and boomerangs.
+The melee class sports the highest defense across progression and decent crowd control, but many melee weapons are limited in range. Although short-ranged melee weapons tend to deal more damage and are less of a challenge to use with the class' high defense, those that fire projectiles are favored especially later in progression where the former weapons require specialized tank builds to use effectively.
 
 ; Ranged
 Rangers are able to attack from a distance, doing high single-target, piercing, or splash damage. They utilize weapons like bows and guns, as well as thrown objects. Ranged users must constantly acquire ammunition, unless using the Endless Quiver or Endless Musket Pouch or using a ranged weapon that doesn't require ammunition such as the Toxikarp or Paintball Gun.
