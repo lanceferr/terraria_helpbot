@@ -1,515 +1,251 @@
 uide:Practical tips
-
-
-
 This is a Guide page.
-
 This means the page will walk you through a specific task, strategy, or enemy/boss fight.Status: Under revision (This Guide is currently being revised or has been revised partially. It has not met all quality standards yet.)
-
-
-
 There are many things in Terraria that are not evident from the get-go, and many other things that a player would do differently on their future playthroughs. It is true that much of the joy lies in exploring, but some helpful advice is in order.
-
 Contents
-
 1Exploration and travel
-
 1.1Skybridge
-
 1.2Subway
-
 1.3Hellbridge
-
 1.4Hellevator
-
 1.5Teleporters
-
 1.6Spawn
-
 1.7Minecarts
-
 1.8Pylons
-
 1.9Hoiks
-
 2Building
-
 3Survival
-
 4Items
-
 5Inventory and storage
-
 5.1Hotbar
-
 5.2Tips
-
 5.3Storage items
-
 6Mining
-
 6.1Mining through water
-
 6.2Mining through lava
-
 6.3Mining Hellstone
-
 7Combat
-
 8Buffs
-
 9Settings and controls
-
 10Skipping ahead
-
 10.1Pre-Hardmode
-
 10.2Hardmode
-
 11Higher difficulties
-
 12External links
-
 Exploration and travel
-
 It can be more time-efficient to explore the surface for Mountain Caves rather than digging a hellevator immediately. Mountain Caves contain large quantities of pots and chests, and will generally lead to the Underground and Cavern layers. Life Crystals are also more common in these large caves.Mountain Caves that generate in the evil biomes often have Shadow Orbs or Crimson Hearts exposed, saving the player from having to use Bombs.
-
 On flat open areas, hooks can be used to pull a player across the ground, by shooting it at the ground ahead and then releasing it while being pulled in. This allows the various Boots to get to full speed without having to build up beforehand.
-
 It can be easier to craft a gem hook than the Grappling Hook.
-
 There are various items and accessories that can affect movement speed:Boots boost run speed, and various upgrades provide a double-jump among environmental immunities like water walking or lava immunity.Amphibian Boots are best suited for combat as they reduce fall damage and boost wing speeds, while Terraspark Boots and its components are suitable for exploration due to their environment immunities.
-
 Swiftness Potions are easy to obtain and sharply increase movement speed for a limited time.
-
 The Magiluminescence boosts movement speed and acceleration while also providing a moderate amount light around the player to help when in caves.
-
 Sunflowers increase movement speed whilst in their vicinity, and the Slice of Cake increases movement speed for two minutes when used.
-
 Asphalt Blocks become available in Hardmode, dramatically increasing the player's speed when running across them.
-
 Gravitation Potions allow you to easily explore Floating Islands. With practice, they can eliminate the need for an arena.
-
 A Featherfall Potion or an Umbrella effectively extends flight time by causing players to fall slower. This will also eliminate all fall damage risk from using a Gravitation Potion.
-
 The Cloud in a Bottle and its variants provide a double-jump. See this page for a comparison.The ascent speed of wings can be greatly increased by equipping a Frog Leg. Balloon accessories provide a similar, though less dramatic bonus.
-
 The Magic Conch teleports you to either Ocean, and the Demon Conch to The Underworld.
-
 Minecarts can also be used to travel faster, although they are restricted to Minecart Tracks. See below for more information.
-
 When flying with wings, the Ice Rod can create blocks mid-air which can then be used to reset your flight duration.
-
 Skybridge
-
 A skybridge is a long bridge built high up in the sky, usually only with a single layer of blocks or platforms. Besides the travel advantages, it can also let you intercept Fallen Stars and coins for easy collection. However, one has to be careful of Harpies and Wyverns. Various blocks are suitable for building a skybridge:
-
 Dirt Blocks are easy to get and allows your bridge to grow herbs and Strange Plants.
-
 In Hardmode, Asphalt Blocks' large movement boost is a boon in travel and in combat.Ice Blocks are a substitute if the player equips Ice Skates, and Sand Blocks if the player equips Dunerider Boots.
-
 Frozen Slime Blocks maintain the player's momentum, so the player will keep moving even while inactive, similar to a minetrack.
-
 A skybridge made of platforms can also make an effective boss arena, maximizing mobility in all directions and leaving a clear line of fire to the boss. Additionally, artifical biomes can be created in the sky, allowing a clean place to farm enemies.
-
 Subway
-
 A subway is a long horizontal shaft dug underground. Like skybridges, it can be floored with Asphalt or Minecart Tracks. The Digging Molecart is perfect for digging subways as it automatically mines blocks and places tracks.
-
 They can double as a barrier to prevent the spread of Evil or Hallowed biomes: in order to work as one, it must be at least 7 blocks tall, and must not contain any Corruptible soil.
-
 Hellbridge
-
 A hellbridge is a bridge built in The Underworld. It can be used to avoid lava but most importantly makes up the arena to fight the Wall of Flesh. A hellbridge made of platforms may be vulnerable to Lava Slimes, but Obsidian Platforms cannot be burnt up.
-
 A hellbridge can also double as a farm to gather Fireblossoms if it is made of Ash Blocks, or Souls of Night and Souls of Light if made with Ebonstone, Crimstone or Pearlstone Blocks. It is a good farming spot for Underworld enemies, such as Voodoo Demons (also preventing Voodoo Dolls dropping in lava).
-
 Hellevator
-
 A hellevator is a vertical shaft of mined blocks that generally extends all the way from the surface to The Underworld. Besides easy access to The Underworld, it can serve as a good place to look for Hardmode ores when they spawn. The following are tips when creating and using a hellevator:
-
 Explosives and Mining Potions speed up the process greatly. Scarab Bombs are especially useful when thrown directly below the player.
-
 Gills Potions will help when digging through water, while Obsidian Skin Potions do the same for lava.
-
 Avoid building the hellevator near the Jungle; you may reach the Jungle Temple, which is made of blocks that cannot be mined until much later.
-
 Riding the Slime Mount greatly increases falling speed, which reduces travel time.
-
 If the player has been to the Underground Desert, Digtoise can be used to mine the hellavator while the player does something else.
-
 Fall damage can be negated in the following ways:A small pool of water just above the Underworld, where it will not evaporate. Alternatively, honey, Pink Slime Blocks or Clouds can also be used, and do not evaporate.
-
 A line of Rope to catch onto.
-
 The Lucky Horseshoe and wings completely negate fall damage.
-
 The Cloud in a Bottle, Flying Carpet, Rocket Boots, or any hook can be engaged just before landing.
-
 The Featherfall Potion. Holding ▼ Down while falling will accelerate the fall to the normal speed. The Umbrella can be used to the same effect.
-
 Using Shoe Spikes and/or Climbing Claws will allow you to slide down walls.
-
 The Cobalt Shield will prevent knockback by any enemies who find their way into the shaft through side entrances.
-
 Similar to the subway, the hellevator can also be incorporated as part of your defense against the spread of the Evil or Hallow biomes. In this case, the hellevator must be at least 3 blocks wide to prevent the biomes from spreading through it.
-
 Teleporters
-
 An eight-pass Teleporter array with four Teleporters connected by four different colored wires at the ends of the middle Teleporter
-
 Main article: Guide:Teleporter network
-
 Teleporters are among the fastest forms of travel, but also the one of the most expensive and time-consuming, as they require a large amount of Wire for greater distances.
-
 To use, you must wire two Teleporters together and then trigger them with a signal, such as that from a Pressure Plate or Switch. With one wire color, each end of a Teleporter pad can be wired to one destination each, making two possible destinations (each must have its own triggering mechanism). Using all four wire colors, each end of the Teleporter can be wired to four destinations each, for a total of eight possible destinations (two red, two blue, two green, and  two yellow).
-
 The Grand Design is incredibly helpful when wiring Teleporters at long distances, as it can instantly place Wire over the world.
-
 Spawn
-
 The player's spawn point can also facilitate travel. There are numerous methods to quickly teleport to your current spawn (Recall Potions, Magic Mirror and its upgrades, or even just exiting the world), and Potion of Return even allows two-way travel. Therefore, it is advantageous to place your spawn point near the places you visit most often, and any transportation network you build should be connected to it as well.
-
 Furthermore, it is possible to arrange two-way teleportation between a custom-made spawn point (a clicked-on bed in a valid house) and the world spawn. To do so, install a Weighted Pressure Plate in the house so that stepping on it will actuate part of the wall, making the house (and the spawn point) invalid. (An example.) Then, using a Magic Mirror or a similar item while standing on the pressure plate will teleport you to the world spawn, while using it anywhere else will teleport you to the bed. If your main base is at the world spawn, this allows easily teleporting between it and the currently explored area.
-
 MinecartsBasics
-
 There are 3 track components:
-
 Minecart Track, made with Iron Bars and Wood at an Anvil.
-
 Booster Track, purchased from the Mechanic for 50 each. Direction of boost can be switched using Mechanisms or a Hammer. Mainly used to instantly accelerate or decelerate a Minecart.
-
 Pressure Plate Track, made out of a regular Track segment, and a Pressure Plate. They can only be placed horizontally.
-
 Tracks can be laid in the air without support. You can grapple to them, but you will pass through them when walking or flying normally.
-
 Behavior
-
 Hammering the rails at the end of a track changes its behavior:
-
 Closed: The default option, stops the Minecart in place.
-
 Bumper: It reverses the travel direction.
-
 Open: It's an unprotected track, causing the Minecart to fall.
-
 When two tracks intersect it is possible to switch branch by using a Hammer or a wire signal. Hammering or signaling an intersection repeatedly will cycle through the possible branches of the intersection. Using a Hammer eventually disconnects the intersection, although this will not happen with a wire signal.
-
 Holding down ▲ Up or ▼ Down button will force the Minecart to take the upper or lower path of a switch track regardless of the current state. This allows a branching rail network to be easily navigated.
-
 Advanced Rail systems
-
 Pressure Plate Tracks only work on horizontal tracks, and will cause a cart to derail if they are laid on a diagonal section. If you need to place a Pressure Plate on a diagonal track, place a Platform in the air next to the track on the side you will pass by, and put a regular Pressure Plate on top of it.
-
 You can make a safe track section that leaves a house by putting it in its own room with a door made with Actuated blocks triggered by Pressure Plate Tracks. However, the space left by the Minecart Track will make the house unsuitable for NPCs.
-
 On a Track intersection, you can use a Switch or Lever to cycle through the different branches. Additionally, Colored Torches can be used to indicate the branch that is currently active.
-
 To make a single Bumper end Track that can send you both up and down without manual input, you will need to build two rows of 3 Rail tracks on top of each other, and then hammer each one a certain amount of times (see picture)
-
 Open ended tracks can be hammered upwards to make jumps. With trial and error, many different jumps can be chained together for much faster travel. You can also hold an Umbrella to greatly extend the distance gained from jumps.
-
-
-
 A Room with a Minecart exit, made with Actuators and Pressure Plate Tracks.
-
- 
-
 A basic mechanism to cycle through two branches.
-
- 
-
 The Bidirectional switch design.
-
 Pylons
-
 Pylons are purchased from NPCs with at least 90% happiness. They provide a point-to-point network across every major biome. Pylons have many advantages as well as disadvantages:
-
 Advantages:
-
 They do not require any wiring
-
 They can be obtained prior to defeating any boss
-
 They allow instant travel
-
 Disadvantages:
-
 They require at least 2 NPCs nearby to be functional
-
 There can only be one of each type per world.
-
 Hoiks
-
 Hoiks are exploits in which sloped blocks are used for fast travel. This occurs when a character sprite shares space with a sloped block: The character is immediately displaced a couple of tiles in a predictable direction.
-
 By chaining Hoiks together with a line of strategically placed shaped blocks, entities can be moved rapidly in any direction. Hoiks have a horizontal travel speed of 60 to 120 tiles per second, while vertical travel speed is 180 tiles per second.
-
 Building
-
 Main article: Guide:Bases
-
 Building barebones, speedrun-style houses can save time at the start, but this may become a problem quickly. Using platforms to meet the enclosed room requirement will leave your NPCs vulnerable to enemies that fly and/or have ranged attacks, and will likely result in time wasted waiting for them to respawn. Additionally, towns with more than three NPCs living in them will lower their happiness, causing everything to become more expensive. Instead, spread your NPCs out, preferably putting them near their preferred NPCs and biomes.
-
 Doors can be very unsafe due to NPCs opening them freely, and certain enemies can open doors during a Blood Moon. Stacking furniture against the doors will keep them from opening inwards.Forgoing doors entirely in favor of a roof platform entrance, paired with hoiks that serve as a one-way exit that also allows you to shoot projectiles through.
-
 It is a good idea to raise your entrance off the ground, accessible by Rope. This can be paired with a trench beneath the base to catch enemies, which can also be filled with lava.
-
 Evil biomes should be contained to prevent damage to the world and NPC housing. Sunflowers are an easy way to seal off evil biomes on the surface, but will not be effective in Hardmode. See Guide:Maintaining world purity for more tips.The Clentaminator can be used to easily purify blocks. Additionally, Dynamite can be used to create a wide gap preventing evil spread.
-
 Survival
-
 If you have a weak weapon, taking your time to kill enemies is more dangerous than ignoring them and moving on. More enemies will spawn while you finish one off, and you may become overwhelmed.
-
 Although using five Life Crystals will allow the Eye of Cthulhu and Goblin Invasion to start spawning, the benefit of the extra health far outweighs the consequences. The Eye of Cthulhu can be avoided by simply exiting and rejoining the world, and the Goblin Invasion can be avoided by not breaking any Shadow Orb/Crimson Hearts. The player can also dig trenches to collect the Goblins and kill them faster. Furthermore, having the Goblin Tinkerer is much better than delaying it.
-
 Exiting and rejoining the world will put you at spawn and remove all enemies and bosses, but will also remove any dropped items.
-
 Keep Recall Potions in your hotbar. Although Magic Mirrors are non-consumable, they are noticeably slower.
-
 Blocks should be used to trap enemies, box yourself in, and seal off tunnels and your hellevator.Yoyos and wall-piercing weapons can attack through blocks.
-
 Towns, Peace Candles, and background walls are common ways to reduce enemy spawns.
-
 Keep the Nurse handy for healing.
-
 Drinking a Dangersense Potion or holding a trap item will highlight traps.
-
 Fishing is a low-risk activity that grants a multitude of useful items throughout game progression, namely crates.Fishing for crates is also much safer than breaking altars, which risk Pirate Invasions and random mechanical boss spawns.
-
 Be mindful of the height at which Wyverns start spawning when building an arena for the mechanical bosses.
-
 The Eye of Cthulhu can be summoned and killed for an easy supply of hearts while fighting another boss. The Queen Bee can be used for this purpose while fighting Plantera.
-
 You can cover lava to prevent Voodoo Demons accidentally spawning the Wall of Flesh.
-
 Items
-
 Platforms can be placed on trees, allowing a quick way to escape enemies.
-
 Trees can be punched to drop food, among other items. This is a good side task while exploring in the early game.
-
 After the player uses the maximum number of Life Crystals, the remainder can be used to craft Heart Lanterns.Additionally, collecting Life Crystals wherever found allows for the Metal Detector to detect other, potentially more useful, items.
-
 White String is very cheap to craft and grants various stat boosts via modifiers.
-
 Pumpkin Pies are easy to obtain and grants the minor food buff. Pumpkin Seeds can be purchased from the Dryad.Many of the catches from fishing can be prepared to give the second-best food buff.
-
 Once twenty Life Fruits and an Aegis Fruit have been consumed, additional Life Fruits can be used to craft Jungle Juice, which is the best healing potion available pre-Cultist.
-
 Shimmer is a powerful resource that can be found in the Aether. It can be used to de-craft items and endlessly reroll Reforges without any cost for crafted equipments, tools, or weapons. Shimmer can also be used to create permanent booster items.
-
 Farming Chlorophyte Ore is generally slower than mining for it, but it remains helpful if you require large amounts of it in the long term, such as creating ammunition or for building.
-
 The Shellphone and Ankh Shield seem like powerful items, but in reality they save only a few slots: most of the Shellphone's information is useless for normal gameplay, and the Ankh Shield's debuff immunities are only helpful in select scenarios.
-
 The Rod of Discord similarly has not enough benefit for its investment; one is practically required to create a farm for it, and the player can become overreliant on it (although using it is ultimately up to one's choice).
-
 When farming Souls of Night or Souls of Light, the player should go to the bottom of the Underground Corruption/Crimson/Hallow, down where The Underworld is. This will still count as the respective biome and any mob that spawns there will drop the soul when killed. Due to the open space, mobs are less likely to be trapped within blocks, and the player will gain souls faster.
-
 Inventory and storage
-
 A full and cluttered inventory.
-
 First off, notable controls: Throw can be rebound to another button you are less likely to press accidentally. Quick Stack transfers all of the same item from the player's inventory to nearby storage items, but does not transfer items in the hotbar or favorited items. Stacks of items can be picked up, crafted, and bought quickly by holding the ⚷ Open / Activate button. More controls can be seen in the Inventory page.
-
 The following is a series of questions to help you decide whether a given item is worth keeping:
-
 Can I put it in another slot?
-
 Armor, vanity items, accessories, dyes, and other equipment items have their own slots, and the first 3 can be placed in separate Loadout slots for extra storage.
-
 Bait, Wire, Solutions, Gel, and Fallen Stars can be put in ammo slots.
-
 If you have a Piggy Bank, Safe, or Defender's Forge, you can use those to store extra items (with 40 slots each) and retrieve them at any other Piggy Bank/Safe/Defender's Forge, regardless of world. The Money Trough allows you to summon a floating Piggy Bank anywhere, without needing to place one down.
-
 Is it useful?
-
 Furniture, vanity items, and pets, among other things, have no functional use beyond building, collecting, or cosmetics.
-
 Gems are very valuable early on for gem hooks. However, once you collect 15 of a given gem or get another hook, gems become much less valuable.
-
 Herbs are very useful due to their use in making buff potions.
-
 Is it easy to obtain?
-
 Statues, regardless of their value, are very rare in the world. If you trash one, you may not see another of the same type for hours of gameplay.
-
 Basic ammunition like Wooden Arrows and Musket Balls can be easily bought from the Merchant/Arms Dealer respectively.
-
 Is it the best item I can get?
-
 Copper and Tin Ore are outclassed quickly by better ores and generally not worth keeping because of this.
-
 If you already have one block type for bridging and exploring, other placeable blocks are much less valuable.
-
 Can I use it now?
-
 Potions can be used instead of trashed.
-
 Statues and chests can be placed for later collection, provided you do not forget where you placed them.
-
 Torches can be placed down to light up areas. Gel and wood can be crafted into torches to condense the two into a useful item.
-
 Certain blocks and items can be turned into platforms at a workbench.
-
 Hotbar
-
 Your hotbar holds up to 10 items that you can use without opening your full inventory. These slots are for items you use regularly and/or need to be able to use at a moment's notice. On  Desktop, each hotbar slot has a key binding, and it can be worth changing these in settings to keys that are easier to reach in a pinch. This section will focus on items you generally should consider for your hotbar.
-
 The most common choices for hotbar slots are weapons, a pickaxe, blocks, platforms, light sources, Recall Potions or a Magic Mirror, explosives, and items that can help with movement, like Ropes or Minecart Tracks. Other tools like a Staff of Regrowth or a hammer are also good choices, depending on how often you use them.
-
 Weapons
-
 You should have at least one weapon in your hotbar, possibly more for different situations. Pairing a broadsword or whip with a bow helps cover the bow's weakness with small, fast-moving targets like Cave Bats, for instance. Another common use for extra weapons is to inflict debuffs, such as using the Golden Shower to inflict Ichor.
-
 You can buffer/scrollwheel switch to other hotbar slots while still using your current weapon. If your weapon has autoswing, it will continue swinging until you release the ⚒ Use / Attack button during the end of its animation, and then it will switch to the new slot. If it does not have autoswing, you will switch to the new hotbar slot after that weapon completes its current animation. These behaviors will still happen with the autofire setting set to on, in which case switching off of a weapon without autoswing with the ⚒ Use / Attack key held will cause you to switch your weapon and start using the new weapon. Switching between weapons with autoswing is more difficult, requiring you to stop attacking, switch, then start attacking again.
-
 Pickaxes
-
 What pickaxe you use depends on pickaxe power and mining speed, but just prioritizing pickaxe power is generally the safer option.
-
 Blocks and platforms
-
 You can jump and place platforms under your feet to quickly scale a wall or stop a fall, or use them with Smart Cursor to move diagonally along stairs. You can use blocks to control enemy movement, keep yourself safe, cover dangerous lava or Spike pits, and so much more. Dirt and other soft blocks are generally best due to being easy to mine, while platforms are mostly interchangeable outside the underworld, where Stone or Obsidian Platforms are useful due to not burning in lava.
-
 Light sources
-
 Torches are your permanent light source but with short range, while Glowsticks and especially a Flare Gun can light up distant spaces and even work underwater, but are temporary. Auto Select can allow you to use all of these quickly without using a hotbar slot for them by hovering the cursor over empty space, but this has some limits due to only autoselecting over certain ranges.
-
 Some weapons, such as bows with Flaming Arrows or a Starfury, can also light up an area, with the Starfury in particular being able to light up anywhere on screen.
-
 Recall Items
-
 Recall Potions, a Magic Mirror, and Potions of Return allow you to teleport back to spawn, or to a bed. Recall Potions can be better than the Magic Mirror due to a faster use time, but are consumable.
-
 Explosives
-
 Dynamite and Bombs can be bought from the Demolitionist, and let you destroy huge numbers of blocks at once, much faster than pickaxes in most cases. They allow for fast tunneling, quickly collecting ore veins, and breaking through blocks you would not otherwise be able to mine through, such as Ebonstone or Crimstone. Having them in your hotbar can make it easier to consistently use them.
-
 Movement Aids
-
 Rope and Minecart Tracks are useful items for movement, letting you move up or to the side quickly and without placing physical blocks or platforms. They are very easy to obtain and quick to place over a long range, letting them break pots from a distance or stop the Sandgun from placing sand, for instance. Rope eventually becomes less useful as the player gets better mobility and especially if they are using Featherfall Potions that can lead them to grabbing onto rope by accident, but Minecart Tracks remain an extremely fast mobility option for the whole game.
-
 An Umbrella or Trident can also affect your movement in some situations, which can be useful for avoiding fall damage or quickly moving through water.
-
 Tips
-
 When you leave base, any items you bring with you should serve some purpose for what you plan to do. Buff potions, informational accessories, and recovery potions are valuable additions while exploring, for instance, while Iron Bars are only valuable while crafting. Other tips are as follows:
-
 Herbs should not be trashed, a common mistake in the early game. They are very useful when crafted into potions that can help with virtually any activity.
-
 The trash slot can be used as a temporary extra slot. Note that exiting the world, dying, or placing another item there before taking the current one will delete the item.
-
 Your character can equip 5/5›6/6›7 accessories directly, and that same amount in your Social Slots. This gives you at least 10 more inventory slots, and you can further use loadouts to triple your available accessory slots and carry up to 3 copies of a given accessory without using any inventory space. This works for saving any accessories during exploration that you want to use or sell later.You can also stack armor with armor slots, to store up to 6 of each armor slot.
-
 By chance, if you encounter an NPC, it is better to sell off your junk than throwing it away.
-
 The Encumbering Stone saves a lot of hassle as it simply restricts items from being picked up.
-
 Many common items are also used as ammo, and can be stored in your Ammo slots. These include Gel, Fallen Stars, Sand, and in  Desktop,  Console, and  Mobile, Bones, Wire and Bait.
-
 Storage items
-
 This content is transcluded from Storage items.
-
 Each type of storage item has unique use cases. All portable storage items retain their items when broken. The player can put them into their inventory and place them at any time for access. Regularly stashing coins in a personal storage item is helpful to prevent having to retrieve it when one dies; this stash is also automatically withdrawn to pay for NPC purchases. The inventory of a portable storage item is unique for each player.
-
 Storage itemUsageObtainmentPortableChestsHome storage.
-
 Can be renamed; hovering above one will display its name.
-
 Can be accessed by other players in multiplayer.
-
 Commonly found throughout the world, or crafted.
-
 ❌Piggy BankSingle inventory, shared with the Money Trough and Eye Bone.
-
 Placed on blocks.
-
 Can be purchased from the Merchant for 1.
-
 ✔️Money TroughShares the Piggy Bank's inventory.
-
 Can be summoned midair.
-
 Has a 1/200 (0.5%) / 1/100 (1%) chance of being dropped by Blood Zombies and Dripplers during a Blood Moon, or with a much lower (1/4000 (0.025%) / 1/2000 (0.05%)) chance from their statue-spawned versions (regardless of whether a Blood Moon is occurring). It also has a 1/15 (6.67%) chance of being dropped by Wandering Eye Fish and Zombie Mermen, which can be fished up during a Blood Moon.
-
 ✔️Eye BoneShares the Piggy Bank's inventory.
-
 Can be summoned midair.
-
 Has a 1/3 (33.33%) chance of being dropped by Deerclops.
-
 ✔️Void VaultSingle inventory, shared by the Void Bag.
-
 Placed on blocks.
-
 15  + 8  + 15  ( @  /  )
-
-or
-
 15  + 8  + 15  ( @  /  )✔️Void BagShares the Void Vault's inventory. Does not require the Void Vault to be crafted.
-
 Can be summoned midair.
-
 Acts like a second inventory. Notable effects include:Automatically stores collected items after the player's main inventory is full.
-
 Consuming food and potions in it with Quick Heal, Quick Mana, and Quick Buff.
-
 Items that have a function in the player's inventory will work as normal, including informational accessories.
-
 These effects can be disabled.
-
 30  + 15  + 30  ( @  /  )
-
-or
-
 30  + 15  + 30  ( @  /  )✔️SafeSingle inventory.
-
 Can be purchased from the Merchant for 20 after Skeletron has been defeated.
-
 ✔️Defender's ForgeSingle inventory.
-
 Can be purchased from the Tavernkeep for 50 .
-
 ✔️Mining
-
 Spelunker Potions are extremely useful and valuable. They highlight any valuable treasure and ores that are on your screen.
-
 As of 1.4.5.0, drills are no longer bugged to be slower than intended.
-
- The Left Ctrl button toggles your mining style to Smart Cursor, which is extremely useful for strip mining or digging straight down.
-
+The Left Ctrl button toggles your mining style to Smart Cursor, which is extremely useful for strip mining or digging straight down.
 A hellevator is a must-have once you have equipped yourself with decent mining equipment or plenty of explosives.It is also a good place to start looking for Hardmode ores near the beginning of Hardmode.
-
 Traps can be found randomly while exploring, by using a Dangersense Potion, or by holding any wire-related item (for example, a Pressure Plate) or equipping a Mechanical Lens and looking for horizontal Wire lines. If the lines are short and not straight, it may be some Explosives, Statues or Geysers. The Geysers can only be found in the lava layer.These methods can also be used to find any Dead Man's Chests, as the chest is connected with wires around the traps.
-
 Modifiers that affect speed will affect the mining speed of tools; The Light modifier provides the greatest increase.
-
 Mining speed can be boosted using the Mining Potion, Ancient Chisel, Slice of Cake, and Mining armor; they all stack.Additionally, the Mining armor's helmet can be upgraded into the Ultrabright Helmet, providing enhanced vision.
-
-    When the minimap is expanded, hovering over an ore pocket will display its name next to the cursor.Items that emit light through walls such as the Starfury or Firecracker can reveal the minimap.
-
+When the minimap is expanded, hovering over an ore pocket will display its name next to the cursor.Items that emit light through walls such as the Starfury or Firecracker can reveal the minimap.
 Hardmode ores are restricted to certain layers:Cobalt and Palladium Ore can be found in all Underground layers;
-
 Mythril and Orichalcum Ore can be found in Cavern layers;
-
 Adamantite and Titanium Ore can only be found in the lower Cavern layer (which is where Lava replaces Water).
-
 Pickaxe progression is practically linear, but there are notable bumps:Although the Molten Pickaxe can destroy most blocks it can mine in one hit, its slow mining speed means that lower tiered pickaxes can mine the weakest block types faster (namely the Bone Pickaxe). However, it remains the fastest pre-Hardmode pickaxe for mining Stone Blocks and above.
-
 It is preferable to save Adamantite and Titanium Ore for armor and weapons, as the respective pickaxes do not allow mining any new blocks that the Mythril and Orichalcum Pickaxes would not.
-
 Compared to the Pickaxe Axe and Drax, the Chlorophyte Pickaxe and Chlorophyte Drill has more range, identical mining speed, and cannot be used as an axe. As Chlorophyte is very valuable, the Chlorophyte tools are hardly worth crafting.
-
 The Picksaw has a slower mining speed than the Shroomite Digging Claw, but the Picksaw is able to mine Lihzahrd Bricks and has a +1 range bonus.
-
 The post-Moon Lord Drill Containment Unit is a flying mount that can rapidly mine any block around the player, and is the fastest form of controlled mining in the game, surpassing the Luminite Pickaxes.
-
 Mining through water
-
 Use Gills Potions or a Diving Helmet.
-
-Horizontally dig a tunnel of at least three tiles 
+Horizontally dig a tunnel of at least three tiles
